@@ -1,0 +1,1084 @@
+movie_title,language,genres,num_user_for_reviews,num_critic_for_reviews,cast_total_facebook_likes,color,country,facenumber_in_poster,content_rating,budget,title_year,duration,num_voted_users,imdb_score,aspect_ratio,actor_2_facebook_likes,movie_facebook_likes,actor_3_facebook_likes,director_facebook_likes,actor_1_facebook_likes
+Charlie Bartlett,English,Comedy|Drama|Romance,124,147,34163,Color,USA,5,R,12000000,2007,97,58114,7,1.85,6100,3700,5400,20,21000
+Two Lovers,English,Drama|Romance,99,190,10179,Color,USA,0,R,12000000,2008,110,30904,7.1,2.35,4200,2900,831,122,4400
+The Great Beauty,Italian,Drama,128,284,467,Color,Italy,2,Not Rated,9200000,2013,141,61483,7.7,2.35,102,30000,71,708,211
+Last Orders,English,Drama,99,60,17548,Color,UK,5,R,12000000,2001,109,5161,7,2.35,5000,314,3000,43,5700
+The Host,Korean,Comedy|Drama|Horror|Sci-Fi,282,366,1218,Color,South Korea,0,R,12215500000,2006,120,73623,7,1.85,406,7500,75,597,660
+The Pursuit of D.B. Cooper,English,Adventure|Crime|Thriller,11,3,4444,Color,USA,0,PG,12000000,1981,100,813,5.7,1.85,680,141,216,61,3100
+The Dangerous Lives of Altar Boys,English,Comedy|Drama,122,78,20927,Color,USA,4,R,12000000,2002,104,12262,7.1,1.85,4900,695,3900,0,6500
+Ravenous,English,Fantasy|Horror|Thriller,319,135,13621,Color,Czech Republic,0,R,12000000,1999,101,31466,7,2.35,3600,5200,3200,62,4200
+Stoker,English,Drama|Thriller,243,475,19689,Color,UK,4,R,12000000,2013,99,89102,6.8,2.35,3400,28000,3300,1700,5600
+Kill the Irishman,English,Biography|Crime|Drama,65,80,25556,Color,USA,4,R,12000000,2011,106,37116,7.1,1.85,4900,13000,3600,39,6700
+Duma,English,Adventure|Drama|Family,43,37,1596,Color,USA,0,PG,12000000,2005,100,6703,7.3,1.85,447,1100,391,19,720
+Married Life,English,Crime|Drama|Romance,51,119,15947,Color,USA,4,PG-13,12000000,2007,91,8257,6.3,1.85,3400,330,1500,65,8300
+Darling Companion,English,Comedy|Drama|Romance,25,56,10499,Color,USA,1,PG-13,,2012,103,2707,5.1,2.35,2000,1300,1200,774,2200
+2046,Cantonese,Drama|Romance|Sci-Fi,209,187,4353, Black and White,Hong Kong,0,R,12000000,2004,129,43336,7.5,2.35,892,3700,772,1400,1800
+Welcome to Collinwood,English,Comedy|Crime,90,71,21556,Color,USA,0,R,12000000,2002,86,12845,6.4,2.35,3600,425,2900,98,9500
+Brother,English,Crime|Drama|Thriller,135,75,3274,Color,USA,0,R,10000000,2000,114,19326,7.2,1.85,878,1200,702,1100,1100
+The Life Before Her Eyes,English,Drama|Mystery|Thriller,78,76,10709,Color,USA,2,R,8000000,2007,90,12447,6.4,2.35,3100,1000,2300,25,3200
+Critical Care,English,Comedy|Drama,12,25,18920,Color,Australia,2,R,12000000,1997,107,1490,6,1.85,3200,106,3000,4700,3300
+Trade,English,Crime|Drama|Thriller,98,71,3105,Color,Germany,0,R,12000000,2007,120,15311,7.4,2.35,672,2300,351,8,1100
+Ondine,English,Drama|Mystery|Romance,59,122,7984,Color,Ireland,2,PG-13,12000000,2009,111,17673,6.8,1.85,859,4900,331,282,6400
+"A Woman, a Gun and a Noodle Shop",Mandarin,Comedy|Drama,20,99,19,Color,China,1,R,,2009,95,2526,5.7,2.35,4,791,3,641,10
+Breakfast of Champions,English,Comedy,136,42,22629,Color,USA,1,R,12000000,1999,110,7026,4.6,1.85,3500,465,1600,20,13000
+Fateless,Hungarian,Drama|Romance|War,46,73,11,Color,Hungary,0,R,2500000000,2005,140,5823,7,2.35,2,668,0,48,9
+Cypher,English,Mystery|Sci-Fi|Thriller,125,82,4225,Color,USA,0,R,7500000,2002,95,27725,6.8,1.85,692,1500,335,168,2700
+City of Life and Death,Mandarin,Drama|History|War,62,149,92, Black and White,China,0,R,12000000,2009,132,8774,7.7,2.35,34,2400,3,14,51
+Trash,Portuguese,Adventure|Crime|Drama|Mystery|Thriller,26,103,7968,Color,UK,0,R,,2014,114,16259,7.2,2.35,1600,7100,678,344,5600
+5 Days of War,English,Action|Drama|War,63,76,18941,Color,Georgia,8,R,20000000,2011,113,12443,5.6,2.35,2800,4800,2300,227,3600
+10 Days in a Madhouse,English,Drama,14,1,15435,Color,USA,1,R,1200000,2015,111,432,6.6,1.85,5300,26000,1100,5100,7800
+Legend of Kung Fu Rabbit,Mandarin,Action|Adventure|Animation|Comedy|Family,15,4,10082,Color,China,0,PG,,2011,89,441,3.2,,970,214,644,0,8200
+Home,English,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,220,169,29814,Color,USA,0,PG,135000000,2015,94,77581,6.7,1.85,6600,27000,3600,13,17000
+1612: Khroniki smutnogo vremeni,Russian,Adventure|Drama|Fantasy|History,20,3,105,Color,Russia,0,,12000000,2007,144,1859,5.7,2.35,20,221,10,2,40
+Triangle,English,Fantasy|Mystery|Thriller,312,159,9036,Color,UK,1,R,12000000,2009,99,72694,6.9,2.35,1300,15000,182,83,7300
+Space Battleship Yamato,Japanese,Action|Adventure|Drama|Sci-Fi,51,44,171,Color,Japan,0,TV-14,12000000,2010,138,5125,6.1,2.35,34,2400,18,7,88
+Drive Hard,English,Action|Comedy|Crime,36,31,7083,Color,Canada,1,Not Rated,12000000,2014,92,3371,4.3,1.78,1300,801,85,55,5600
+A Tale of Three Cities,Chinese,Drama,6,6,257,Color,China,1,,12000000,2015,130,156,6.1,2.35,29,8,2,4,226
+The Dressmaker,English,Comedy|Drama,104,134,26810,Color,Australia,1,R,17000000,2015,119,33532,7.1,2.35,7300,20000,4600,26,14000
+Maadadayo,Japanese,Drama,41,25,30,Color,Japan,2,,11900000,1993,134,3996,7.4,1.85,6,370,4,5200,15
+Dirty Grandpa,English,Comedy,205,171,41204,Color,USA,1,R,27500000,2016,102,75531,6,2.35,7400,12000,3400,13,22000
+The Cry of the Owl,English,Drama|Thriller,29,34,5043,Color,UK,2,R,11500000,2009,100,3972,6,2.35,698,452,571,3,3200
+St. Trinian's,English,Comedy|Family,101,55,12173,Color,UK,5,PG-13,13500000,2007,100,18974,5.8,1.85,1800,1200,782,34,7100
+Pet Sematary,English,Horror|Thriller,257,105,3222,Color,USA,0,R,11500000,1989,103,67940,6.6,1.85,898,7300,449,61,992
+Star Wars: Episode IV - A New Hope,English,Action|Adventure|Fantasy|Sci-Fi,1519,298,26713,Color,USA,1,PG,11000000,1977,121,979595,8.7,2.35,4800,37000,4500,3000,11000
+Gremlins,English,Comedy|Fantasy|Horror,257,195,3903,Color,USA,0,PG,11000000,1984,106,153623,7.2,2.2,777,17000,280,447,1800
+Doctor Zhivago,English,Drama|Romance|War,261,89,8359,Color,USA,4,Approved,11000000,1965,197,58333,8,2.35,1800,7600,615,845,4500
+High School Musical 3: Senior Year,English,Comedy|Drama|Family|Music|Musical|Romance,173,127,16010,Color,USA,1,G,11000000,2008,112,46431,4.5,1.85,3300,1300,1800,198,7400
+Jackass Number Two,English,Action|Comedy|Documentary,195,104,5230,Color,USA,0,R,,2006,92,58467,7.1,1.85,1700,645,596,81,1700
+Snatch,English,Comedy|Crime,738,152,59444,Color,UK,6,R,6000000,2000,104,640291,8.3,1.85,12000,29000,7500,2900,26000
+My Cousin Vinny,English,Comedy|Crime,210,46,15660,Color,USA,1,R,11000000,1992,120,86827,7.5,1.85,2900,8300,2900,39,4100
+The Fighter,English,Action|Biography|Drama|Sport,394,412,45720,Color,USA,2,R,25000000,2010,116,290314,7.8,2.35,9800,36000,8900,755,23000
+Major League,English,Comedy|Sport,100,56,15841,Color,USA,3,R,11000000,1989,107,51388,7.2,1.85,2400,7600,1800,43,8100
+If I Stay,English,Drama|Fantasy|Music|Romance,138,141,21724,Color,USA,3,PG-13,11000000,2014,107,92323,6.8,2.35,1100,15000,1000,15,17000
+A Walk to Remember,English,Drama|Romance,974,79,7947,Color,USA,1,PG,11000000,2002,101,171487,7.4,2.35,2100,19000,1100,162,2100
+Phone Booth,English,Crime|Mystery|Thriller,636,218,17977,Color,USA,0,R,13000000,2002,81,218180,7.1,2.35,4100,5000,2800,558,6400
+Dead Man Walking,English,Crime|Drama,194,76,14644,Color,UK,0,R,11000000,1995,122,76164,7.6,1.85,3200,3700,2600,5900,4700
+Cruel Intentions,English,Drama|Romance,754,102,18721,Color,USA,3,R,10500000,1999,97,154968,6.9,1.85,3900,6500,2500,17,4000
+The Secret Life of Bees,English,Drama,57,106,18483,Color,USA,5,PG-13,11000000,2008,114,20596,7.3,2.35,4800,3700,2000,113,6900
+Woman in Gold,English,Biography|Drama|History,160,208,35600,Color,UK,2,PG-13,11000000,2015,109,39859,7.3,2.35,3800,39000,3000,66,16000
+History of the World: Part I,English,Comedy,134,41,11586,Color,USA,0,R,11000000,1981,92,38657,6.9,2.35,2700,3800,1600,3200,3200
+Corky Romano,English,Comedy|Crime,101,61,12558,Color,USA,1,PG-13,11000000,2001,86,11208,4.6,1.85,696,372,604,5,8100
+Brooklyn,English,Drama|Romance,247,370,8634,Color,UK,1,PG-13,11000000,2015,117,95206,7.5,1.85,1800,42000,853,36,5800
+Saw VI,English,Horror|Mystery,195,158,4656,Color,Canada,0,R,11000000,2009,90,80895,6,1.85,727,2600,658,52,1500
+Raising Cain,English,Crime|Drama|Horror|Thriller,85,59,3913,Color,USA,0,R,12000000,1992,91,10741,6,1.85,651,650,347,1500,2000
+Barry Lyndon,English,Adventure|Drama|History|War,381,131,1163,Color,UK,0,PG,11000000,1975,184,109605,8.1,1.66,299,5700,119,7200,408
+Quartet,English,Comedy|Drama,128,176,10774,Color,UK,4,PG-13,11000000,2012,94,16547,6.8,2.35,2600,14000,1400,7200,5500
+F.I.S.T.,English,Crime|Drama|Thriller,35,19,14857,Color,USA,2,PG,11000000,1978,145,5848,6.4,1.85,630,781,311,282,13000
+The Ladies Man,English,Comedy,79,58,23156,Color,USA,1,R,24000000,2000,84,11100,5.1,1.85,8000,700,1400,75,9400
+Inside Llewyn Davis,English,Drama|Music,332,541,22735,Color,USA,1,R,11000000,2013,104,106078,7.4,1.85,4800,26000,3300,1000,4900
+Tomcats,English,Comedy,122,74,5381,Color,USA,0,R,11000000,2001,95,15789,5.3,1.85,1100,454,1000,6,1400
+Out Cold,English,Comedy|Sport,90,36,15343,Color,USA,0,PG-13,24000000,2001,89,15006,6.3,1.85,1300,1300,1200,2,7700
+Frailty,English,Crime|Drama|Thriller,471,169,33406,Color,USA,0,R,11000000,2001,100,64209,7.3,1.85,12000,8100,5300,13000,13000
+Army of Darkness,English,Comedy|Horror,613,227,10126,Color,USA,2,R,11000000,1992,81,136752,7.6,1.85,928,11000,912,1300,6100
+Kinsey,English,Biography|Drama|Romance,205,191,33849, Black and White,USA,0,R,11000000,2004,118,43677,7.1,2.35,6700,3600,2100,438,14000
+What's Eating Gilbert Grape,English,Drama,297,79,78490,Color,USA,1,PG-13,11000000,1993,118,180416,7.8,1.85,29000,15000,2900,543,40000
+The Visual Bible: The Gospel of John,English,Biography|Drama|History,75,24,3753,Color,Canada,1,PG-13,17000000,2003,125,2292,7.7,1.85,874,1300,150,10,2400
+Slackers,English,Comedy|Romance,107,65,13583,Color,Canada,4,R,11000000,2002,86,12737,5.3,1.85,2400,413,2200,4,4700
+Vera Drake,English,Crime|Drama,167,169,6661,Color,UK,1,R,11000000,2004,125,20982,7.7,1.85,1000,1300,614,619,3400
+The Guru,English,Comedy|Music|Romance,128,70,7668,Color,UK,3,R,11000000,2002,94,13852,5.4,1.85,1900,563,1200,18,2900
+The Perez Family,English,Comedy|Drama|Romance,20,15,7143,Color,USA,2,R,11000000,1995,113,1827,6.1,1.85,1100,181,1000,314,2900
+O,English,Drama|Romance|Thriller,153,93,11869,Color,USA,2,R,5000000,2001,95,17663,6.2,1.85,3200,1300,1600,637,3600
+The Molly Maguires,English,Drama|History,36,12,9443,Color,USA,0,PG,11000000,1970,124,2734,6.9,2.35,1300,641,346,69,7300
+Romance & Cigarettes,English,Comedy|Musical|Romance,71,87,51135,Color,USA,0,R,,2005,105,10347,6.3,2.35,12000,1500,8000,1700,14000
+Copying Beethoven,English,Biography|Drama|Music,89,77,10953,Color,USA,0,PG-13,11000000,2006,104,11512,6.8,2.35,3300,1400,2900,245,3400
+Brighton Rock,English,Crime|Drama|Thriller,60,135,18192,Color,UK,2,R,12000000,2010,111,5237,5.8,2.35,3900,1500,3000,17,6900
+Return to the Blue Lagoon,English,Adventure|Drama|Romance,40,13,15585,Color,USA,1,PG-13,11000000,1991,102,14948,5.1,1.85,1300,980,169,9,14000
+Le pr,,Comedy,,,0,,,3,,,,,,,,0,0,,0,0
+La Famille B,French,Comedy|Drama|Music,29,95,184,Color,France,4,,11000000,2014,106,18128,7.3,1.85,30,7200,24,7,73
+LOL,English,Comedy|Drama|Romance,111,53,12782,Color,USA,1,PG-13,11000000,2012,97,47178,4.3,2.35,3500,18000,2900,15,4500
+Misconduct,English,Drama|Thriller,63,42,46319,Color,USA,3,R,11000000,2016,106,10284,5.3,2.35,12000,4200,6800,29,15000
+Machine Gun McCain,English,Crime|Drama|Thriller,12,26,10038,Color,Italy,0,GP,,1969,96,663,6.2,2.35,1000,91,550,6,8100
+Saw V,English,Horror|Mystery,267,158,9292,Color,USA,0,R,10800000,2008,92,93491,5.8,1.85,2300,1300,1500,42,3100
+Jindabyne,English,Crime|Drama|Mystery|Thriller,115,76,3680,Color,Australia,2,R,15000000,2006,123,5903,6.3,2.35,1300,307,172,10,2000
+Kabhi Alvida Naa Kehna,Hindi,Drama|Romance,264,20,14215,Color,India,2,R,700000000,2006,193,15010,6.1,2.35,2100,667,1200,161,8100
+An Ideal Husband,English,Comedy|Romance,133,103,18878,Color,UK,3,PG-13,14000000,1999,97,13397,6.9,1.85,6200,659,924,34,9400
+Poltergeist,English,Fantasy|Horror|Thriller,330,226,4090,Color,USA,0,PG,10700000,1982,114,112958,7.4,2.35,805,12000,756,380,975
+Darkness,English,Horror,350,108,6252,Color,USA,0,PG-13,10600000,2002,88,17207,5.4,2.35,1600,1100,553,62,3400
+The Last Days on Mars,English,Horror|Sci-Fi|Thriller,168,124,7701,Color,UK,0,R,7000000,2013,98,30474,5.5,2.35,1400,5200,807,7,4000
+E.T. the Extra-Terrestrial,English,Family|Sci-Fi,522,224,8805,Color,USA,0,PG,10500000,1982,115,299199,7.9,1.85,1400,36000,890,14000,4300
+In the Land of Women,English,Comedy|Drama|Romance,77,81,24869,Color,USA,0,PG-13,10000000,2007,97,28533,6.5,2.35,2800,1000,1700,24,17000
+2001: A Space Odyssey,English,Adventure|Sci-Fi,1780,251,788,Color,UK,0,G,12000000,1968,149,460985,8.3,2.2,135,26000,73,7200,302
+There Goes My Baby,English,Comedy|Drama,32,5,6902,Color,USA,2,R,10500000,1994,99,888,6.4,,1100,126,704,11,3400
+The Blue Butterfly,English,Adventure|Drama,28,17,1595,Color,Canada,1,PG,12500000,2004,97,1368,6.3,1.85,449,406,201,5,913
+Le fabuleux destin d'Am,French,Short,,,0,Color,France,,,,2006,11,23,7.1,,0,21,0,0,0
+September Dawn,,Drama|History|Romance|Western,111,45,6444,Color,USA,0,R,11000000,2007,111,2670,5.8,1.85,1700,420,1300,59,1900
+Lovesick,English,Comedy,25,7,605,Color,UK,3,,,,24,6436,8.1,,108,2200,53,,398
+Housefull,Hindi,Comedy|Drama|Musical|Romance,44,10,4146,Color,India,5,,,2010,144,9655,5.4,,1300,248,561,0,1700
+Good Will Hunting,English,Drama,711,160,26854,Color,USA,2,R,10000000,1997,126,655936,8.3,1.85,6800,32000,3300,835,14000
+Don't Breathe,English,Crime|Horror|Thriller,386,365,7152,Color,USA,0,R,9900000,2016,88,122135,7.2,2.35,1900,28000,1300,223,3800
+Stripes,English,Action|Comedy|War,142,54,30216,Color,USA,1,R,10000000,1981,106,51583,6.9,1.85,11000,5300,2700,489,13000
+The Purge: Election Year,English,Action|Horror|Sci-Fi|Thriller,170,263,4436,Color,USA,1,R,10000000,2016,109,54631,6,2.35,822,11000,627,65,1400
+The Grudge,English,Horror|Mystery|Thriller,913,203,8943,Color,USA,0,PG-13,10000000,2004,91,120983,5.9,1.85,1400,4100,1000,71,4000
+Saw III,English,Horror,621,209,7222,Color,USA,0,R,10000000,2006,108,149111,6.2,1.85,1300,1600,1200,181,1500
+Bring It On,English,Comedy|Romance|Sport,383,138,11482,Color,USA,4,PG-13,11000000,2000,98,73294,5.9,1.85,2700,3000,2000,238,4100
+She's All That,English,Comedy|Romance,390,94,39338,Color,USA,2,PG-13,10000000,1999,95,70453,5.8,1.85,3400,2600,2300,7,23000
+White Noise,English,Drama|Horror|Mystery|Thriller,403,171,9404,Color,UK,2,PG-13,10000000,2005,101,43016,5.5,2.35,499,1300,401,13,7300
+Saw IV,English,Horror|Mystery,324,192,7608,Color,USA,0,R,10000000,2007,93,116683,5.9,1.85,1300,1500,1200,181,1500
+Madea's Family Reunion,English,Comedy|Drama|Romance,139,45,9349,Color,USA,4,PG-13,6000000,2006,107,9276,5.1,1.85,1400,679,1100,2400,2400
+The Color of Money,English,Drama|Sport,115,61,18243,Color,USA,3,R,13800000,1986,119,61230,7,1.85,3600,2200,1700,17000,11000
+The Mighty Ducks,English,Comedy|Drama|Family|Sport,49,24,8948,Color,USA,8,PG,10000000,1992,100,47055,6.4,1.85,1600,3200,1400,82,2500
+Precious,English,Drama,280,322,7888,Color,USA,0,R,10000000,2009,110,91702,7.3,1.85,1300,12000,989,322,3200
+The Best Exotic Marigold Hotel,English,Comedy|Drama,265,263,15547,Color,UK,3,PG-13,10000000,2011,124,78869,7.3,2.35,4800,49000,3300,124,5500
+Bill & Ted's Excellent Adventure,English,Adventure|Comedy|Music|Sci-Fi,187,85,22002,Color,USA,6,PG,10000000,1989,90,89260,6.9,2.35,905,10000,785,82,19000
+The Longest Day,English,Action|Drama|History|War,197,51,9033, Black and White,USA,30,G,10000000,1962,178,44984,7.8,2.35,800,7100,261,21,7300
+Happy Gilmore,English,Comedy|Family|Sport,296,77,17977,Color,USA,1,PG-13,12000000,1996,92,163739,7,1.85,3500,3600,1200,230,11000
+Oliver!,English,Drama|Family|Musical,145,56,1660,Color,UK,5,G,10000000,1968,153,27195,7.5,2.35,283,2400,146,91,721
+Mad Max Beyond Thunderdome,English,Action|Adventure|Sci-Fi,198,121,7089,Color,Australia,3,PG-13,10000000,1985,107,107213,6.2,2.35,857,4400,551,774,5400
+Jeepers Creepers,English,Horror|Mystery,994,189,6409,Color,Germany,0,R,10000000,2001,90,92222,6.1,1.85,1100,4500,1000,110,3300
+Pete's Dragon,English,Adventure|Family|Fantasy,125,215,19163,Color,USA,0,PG,65000000,2016,102,36645,6.8,2.35,6300,31000,3000,42,6400
+Recess: School's Out,English,Animation|Comedy|Family|Mystery|Sci-Fi,37,44,10166,Color,USA,4,G,23000000,2001,82,7315,6.6,1.85,1800,234,1700,6,2000
+The Boy,English,Horror|Mystery|Thriller,201,175,4845,Color,USA,0,PG-13,8000000,2016,97,51505,6,2.35,358,22000,143,18,4100
+Commando,English,Action|Adventure|Thriller,444,128,13485,Color,USA,1,R,10000000,1985,90,118902,6.7,1.85,2300,9000,1000,79,7900
+Friday After Next,English,Comedy|Drama,66,25,8405,Color,USA,0,R,10000000,2002,85,20713,5.8,1.85,1700,1000,755,8,2900
+Devil,English,Horror|Mystery|Thriller,323,272,8885,Color,USA,0,PG-13,10000000,2010,80,110145,6.3,2.35,1900,17000,1200,71,2000
+The Second Best Exotic Marigold Hotel,English,Comedy|Drama,102,157,17449,Color,UK,6,PG,10000000,2015,122,25069,6.6,2.35,4800,21000,3300,124,5500
+The Last Dragon,English,Action|Comedy|Drama|Music,111,58,3499,Color,USA,1,PG-13,10000000,1985,109,9958,6.9,1.85,865,6900,628,79,891
+The Lawnmower Man,English,Horror|Sci-Fi,99,49,7948,Color,UK,0,R,10000000,1992,108,28944,5.4,1.85,1900,2400,1500,33,3400
+Nick and Norah's Infinite Playlist,English,Comedy|Drama|Music|Romance,129,165,16907,Color,USA,1,PG-13,9000000,2008,90,77964,6.7,1.85,4800,4400,3900,6,5400
+Calendar Girls,English,Comedy|Drama,141,70,6545,Color,UK,4,PG-13,10000000,2003,108,20299,6.9,2.35,1500,2100,853,13,3000
+The Banger Sisters,English,Comedy|Drama,149,91,11596,Color,USA,2,R,10000000,2002,98,12835,5.6,2.35,2600,783,2500,7,2900
+Snatch,English,Comedy|Crime,18,6,14188,Color,USA,6,,,,60,1494,6.8,,1300,2300,823,,10000
+Dogma,English,Adventure|Comedy|Drama|Fantasy,1016,205,24605,Color,USA,8,R,10000000,1999,130,187581,7.4,2.35,6800,11000,1000,2300,14000
+When the Bough Breaks,English,Crime|Drama|Horror|Mystery|Thriller,28,35,15841,Color,USA,1,PG-13,10000000,2016,107,2834,4.8,2.35,2300,2000,2300,81,4200
+Road House,English,Action|Thriller,208,63,12373,Color,USA,1,R,17000000,1989,114,45986,6.5,2.35,3500,10000,663,9,6200
+Twilight Zone: The Movie,English,Fantasy|Horror|Sci-Fi,130,81,5713,Color,USA,0,PG,10000000,1983,101,27060,6.5,1.85,905,1400,750,447,3500
+A Low Down Dirty Shame,English,Action|Comedy|Crime,26,8,3380,Color,USA,2,R,10000000,1994,100,4191,5.8,1.85,567,379,550,323,881
+One Direction: This Is Us,English,Documentary|Music,68,83,2792,Color,USA,10,PG,10000000,2013,92,22373,4.1,1.85,737,7700,545,297,780
+Swimfan,English,Drama|Thriller,220,85,5486,Color,USA,0,PG-13,8500000,2002,85,16867,5,2.35,1000,757,884,21,1400
+Employee of the Month,English,Comedy|Romance,152,85,5916,Color,USA,2,PG-13,12000000,2006,103,38893,5.5,1.85,1000,1100,812,27,1200
+Sinister 2,English,Horror|Mystery|Thriller,146,192,4289,Color,USA,0,R,10000000,2015,97,31396,5.3,2.35,1100,13000,452,12,1700
+The Fourth Kind,English,Mystery|Sci-Fi|Thriller,333,185,16674,Color,USA,0,PG-13,10000000,2009,98,65470,5.9,2.35,1400,16000,548,60,14000
+The Forest,English,Horror|Mystery|Thriller,163,202,8205,Color,USA,1,PG-13,10000000,2016,93,28960,4.8,1.85,3400,11000,544,4,4200
+Can't Hardly Wait,English,Comedy|Romance,249,77,12433,Color,USA,5,PG-13,10000000,1998,100,39114,6.5,1.85,3000,2600,2000,5,3100
+The Outsiders,English,Crime|Drama,309,60,29544,Color,USA,6,PG,10000000,1983,91,60553,7.2,2.35,4100,11000,3500,3700,11000
+Kevin Hart: What Now,English,Comedy|Documentary,26,30,11281,Color,USA,1,R,9900000,2016,96,5278,5.8,2.39,3000,1000,1700,16,3700
+Sparkle,English,Drama|Music,48,80,7644,Color,USA,6,PG-13,17000000,2012,116,5278,5.7,2.35,1000,3500,923,71,1700
+Mud,English,Drama,264,372,24147,Color,USA,1,PG-13,10000000,2012,130,143193,7.4,2.35,3900,27000,3900,371,12000
+Blair Witch,English,Horror|Thriller,234,314,1075,Color,Canada,0,R,5000000,2016,89,26261,5.1,1.85,243,11000,94,116,623
+Skyline,English,Action|Sci-Fi|Thriller,947,220,6868,Color,USA,0,PG-13,10000000,2010,97,77970,4.4,2.35,1300,13000,1000,24,1800
+The Dead Zone,English,Horror|Sci-Fi|Thriller,189,118,10463,Color,USA,0,R,10000000,1983,103,47576,7.2,1.85,1600,5100,1100,2300,6700
+A Prairie Home Companion,English,Comedy|Drama|Music|Musical,279,211,36443,Color,USA,9,PG-13,10000000,2006,105,20061,6.8,2.35,7900,718,5100,583,13000
+Reno 911!: Miami,English,Comedy|Crime,73,88,6697,Color,USA,2,R,10000000,2007,84,24402,5.9,1.85,1200,461,683,135,2600
+Paranormal Activity: The Ghost Dimension,English,Horror,103,131,938,Color,USA,0,R,10000000,2015,88,18396,4.6,,160,13000,145,2,277
+Mafia!,English,Comedy|Crime,105,53,10142,Color,USA,3,PG-13,10000000,1998,87,12994,5.5,1.85,2100,788,1600,108,3000
+Valentine,English,Horror|Mystery|Thriller,372,120,12769,Color,USA,1,R,10000000,2001,96,21172,4.7,2.35,4500,1400,1300,9,4500
+Kit Kittredge: An American Girl,English,Drama|Family,25,71,21970,Color,USA,1,G,10000000,2008,101,4911,6.6,1.85,3500,861,3400,23,4800
+Sugar Hill,English,Drama|Thriller,35,13,9963, Black and White,USA,1,R,10000000,1993,123,3278,5.9,1.85,2400,355,587,5,5300
+Invasion U.S.A.,English,Action|Thriller,93,54,5781,Color,USA,1,R,10000000,1985,107,6639,5.3,1.85,385,1200,327,19,4900
+Roll Bounce,English,Comedy|Drama|Music|Romance,75,55,16555,Color,USA,0,PG-13,,2005,112,5764,6,2.35,2300,1000,2000,95,4800
+Tremors,English,Comedy|Horror,252,140,10511,Color,USA,0,PG-13,11000000,1990,96,96041,7.1,1.85,734,12000,621,32,7200
+Rushmore,English,Comedy|Drama,648,179,20265,Color,USA,2,R,9000000,1998,93,141984,7.7,2.35,1800,5300,1500,8400,13000
+The Perfect Man,English,Comedy|Family|Romance,104,65,7097,Color,USA,3,PG,25000000,2005,100,24527,5.5,1.85,1000,781,980,16,2200
+Mo' Better Blues,English,Drama|Music|Romance,31,26,37513,Color,USA,2,R,10000000,1990,129,8769,6.6,1.85,7500,746,2700,1600,19000
+Kung Pow: Enter the Fist,English,Action|Comedy,520,63,379,Color,USA,1,PG-13,10000000,2002,81,39144,6.2,2.35,72,4900,44,179,179
+The Birth of a Nation,English,Biography|Drama|History,107,231,14729,Color,Canada,48,R,8500000,2016,120,12649,6.2,2.39,2300,8800,2000,792,5400
+Wrong Turn,English,Horror,543,192,12075,Color,USA,1,R,12600000,2003,84,91851,6.1,1.85,2700,4600,2000,42,2800
+The Long Riders,English,Western,82,51,7720,Color,USA,0,R,10000000,1980,100,7814,7.1,1.85,1200,763,988,417,2000
+The Corruptor,English,Action|Crime|Drama|Mystery|Thriller,132,90,12484,Color,USA,2,R,25000000,1999,110,15724,6,2.35,1500,350,1500,177,8900
+"The Goods: Live Hard, Sell Hard",English,Comedy,59,82,18403,Color,USA,5,R,,2009,89,18203,5.8,1.85,1800,1700,1600,33,4600
+My Week with Marilyn,English,Biography|Drama,221,386,24819,Color,UK,1,R,6400000,2011,99,74444,7,2.35,4800,17000,2600,66,13000
+Hey Arnold! The Movie,English,Adventure|Animation|Comedy|Family,45,33,15954,Color,USA,0,PG,3000000,2002,76,4892,5.9,1.85,3300,234,1100,14,8700
+Big Eyes,English,Biography|Crime|Drama|Romance,155,332,29710,Color,USA,3,PG-13,10000000,2014,106,64335,7,1.85,9800,22000,3100,13000,11000
+End of the Spear,English,Adventure|Drama,148,47,1068,Color,USA,3,PG-13,10000000,2005,108,4486,7,2.35,246,1000,30,3,768
+The Matador,English,Comedy|Crime|Drama|Thriller,236,193,9098,Color,Ireland,0,R,10000000,2005,96,41254,6.8,2.35,3000,849,1600,46,3400
+The Gift,English,Mystery|Thriller,306,308,11391,Color,USA,1,R,5000000,2015,108,96925,7.1,2.35,2400,17000,2000,2000,3700
+Love Jones,English,Drama|Romance,28,17,4020,Color,USA,0,R,10000000,1997,104,3011,7.4,1.85,840,1000,594,28,969
+Office Space,English,Comedy,625,146,14046,Color,USA,0,R,10000000,1999,89,209229,7.8,1.85,1400,17000,1300,408,6600
+Drop Dead Gorgeous,English,Comedy|Romance|Thriller,324,68,27528,Color,Germany,1,PG-13,15000000,1999,97,28109,6.6,1.85,8000,2500,4100,31,9800
+Get Over It,English,Comedy|Romance,179,63,37395,Color,USA,2,PG-13,22000000,2001,87,16061,5.8,2.35,8200,1100,4100,13,15000
+The Red Violin,French,Drama|Music|Mystery|Romance,248,92,30,Color,Canada,1,R,10000000,1998,130,27818,7.7,1.85,4,4900,2,63,24
+Very Bad Things,English,Comedy|Crime|Thriller,484,101,14487,Color,USA,6,R,10000000,1998,100,40600,6.3,1.85,4100,2900,2000,604,4900
+The Spanish Prisoner,English,Drama|Mystery|Thriller,264,98,8381,Color,USA,1,PG,10000000,1997,110,19243,7.3,1.85,663,611,519,347,6600
+Movie 43,English,Comedy|Romance,361,181,42680,Color,USA,10,R,6000000,2013,94,83717,4.3,1.85,14000,25000,3000,4600,20000
+Sleepover,English,Comedy|Romance,74,52,25265,Color,USA,9,PG,10000000,2004,89,13241,5.3,1.85,4000,1100,3300,18,7000
+Body Double,English,Mystery|Thriller,185,108,1935,Color,USA,0,R,10000000,1984,114,21896,6.8,1.85,403,1300,307,1500,542
+Dirty Pretty Things,English,Crime|Drama|Thriller,222,138,8396,Color,UK,1,R,10000000,2002,97,36172,7.4,1.85,3400,2300,477,381,3600
+MacGruber,English,Action|Comedy|Romance,127,141,18492,Color,USA,3,R,10000000,2010,90,37267,5.5,2.35,2900,6600,2600,434,3600
+Bad Words,English,Comedy|Drama,120,127,9074,Color,USA,1,R,10000000,2013,89,40356,6.7,2.35,1900,7000,1300,3700,3700
+While We're Young,English,Comedy|Drama|Mystery,96,275,22041,Color,USA,2,R,10000000,2014,97,34056,6.3,1.85,6000,6700,3500,393,9900
+Over Her Dead Body,English,Comedy|Fantasy|Romance,54,98,12581,Color,USA,0,PG-13,10000000,2008,95,21805,5.2,2.35,1600,530,1300,4,4800
+Bones,English,Comedy|Crime|Drama|Mystery|Romance,179,61,10808,Color,USA,2,TV-14,,,40,119156,7.9,1.78,2300,6700,1800,,4500
+Seeking a Friend for the End of the World,English,Adventure|Comedy|Drama|Romance|Sci-Fi,234,265,21060, Black and White,USA,2,R,10000000,2012,101,93163,6.7,2.35,7000,26000,1700,64,7700
+The Tourist,English,Action|Crime|Romance|Thriller,383,323,61691,Color,USA,0,PG-13,100000000,2010,103,186418,6,2.35,11000,25000,4800,206,40000
+Cedar Rapids,English,Comedy,85,210,14762,Color,USA,1,R,,2011,87,33362,6.3,1.85,2900,6900,1500,45,4000
+Giam Cam Quy Du,English,Drama|Horror|Thriller,49,94,8338,Color,France,0,PG-13,10000000,2016,91,5806,4.6,2.35,1200,1800,703,5,6000
+American History X,English,Crime|Drama,1439,166,15957, Black and White,USA,1,R,7500000,1998,119,837442,8.5,1.85,1600,36000,1500,196,8800
+Teacher's Pet,English,Animation|Comedy|Family|Fantasy|Musical,26,33,10022,Color,USA,0,PG,10000000,2004,74,1289,5.8,1.85,1300,49,892,0,3300
+The Straight Story,English,Biography|Drama,416,144,1457,Color,France,0,G,10000000,1999,112,66893,8,2.35,285,6300,211,4700,947
+The Collection,English,Drama|History|Romance,29,3,6929,Color,UK,0,,,,60,753,7,,641,805,595,,3300
+Deuces Wild,English,Action|Crime|Drama,92,40,31573,Color,USA,1,R,10000000,2002,96,6347,5.6,2.35,11000,407,1700,9,12000
+"Run, Fatboy, Run",English,Comedy|Romance|Sport,144,167,9556,Color,UK,0,PG-13,,2007,100,60236,6.6,2.35,2500,3000,1600,1500,4400
+Heartbeeps,English,Comedy|Sci-Fi,33,19,3008,Color,USA,0,PG,10000000,1981,78,1083,4.2,2.35,732,470,411,12,841
+Rescue Dawn,English,Adventure|Biography|Drama|War,211,199,24343,Color,USA,0,PG-13,10000000,2006,120,87985,7.3,1.85,380,3500,303,2000,23000
+Danny Collins,English,Comedy|Drama|Music,106,144,28707,Color,USA,0,R,10000000,2015,106,23635,7,,3000,8500,2400,110,15000
+On the Line,English,Comedy|Family|Romance,79,45,5299,Color,USA,1,PG,10000000,2001,85,3745,4.1,1.85,724,1100,411,49,2800
+Black or White,English,Drama,61,94,12149,Color,USA,2,PG-13,9000000,2014,121,9184,6.6,2.35,2000,6900,1700,57,4300
+"Jeff, Who Lives at Home",English,Comedy|Drama,115,180,19527,Color,USA,5,R,10000000,2011,83,57446,6.5,1.85,4700,8500,2600,159,7200
+Everybody Wants Some,,Comedy,,,117,,,2,,,,,,,,44,0,,7,73
+Atlas Shrugged II: The Strike,English,Drama|Mystery|Sci-Fi,122,21,3873,Color,USA,0,PG-13,10000000,2012,111,5834,5.4,2.35,790,3300,542,62,1600
+Romeo Is Bleeding,English,Action|Crime|Drama|Thriller,89,32,17667,Color,UK,1,R,11500000,1993,100,11231,6.6,1.85,2500,597,1900,34,10000
+Crash,English,Crime|Drama|Thriller,1629,286,24951,Color,Germany,0,R,6500000,2004,112,374690,7.8,2.35,6000,19000,3000,650,8700
+The Limey,English,Crime|Drama|Mystery|Thriller,244,111,6922,Color,USA,0,R,9000000,1999,89,25466,7.1,1.85,1300,1000,1300,1500,2900
+Rosewater,English,Biography|Drama,38,132,6931,Color,USA,0,R,5000000,2014,103,9024,6.6,1.85,1300,5100,1300,639,3000
+The House of Mirth,English,Drama|Romance,181,97,10809,Color,UK,0,PG,10000000,2000,135,6535,7.1,2.35,2500,357,2000,25,3500
+Bucky Larson: Born to Be a Star,English,Comedy,64,47,9467,Color,USA,1,R,10000000,2011,97,9862,3.3,1.85,1300,2100,1300,105,3100
+Peaceful Warrior,English,Drama|Romance|Sport,180,45,12109,Color,USA,1,PG-13,10000000,2006,120,21734,7.3,2.35,1700,8900,1600,110,4800
+Malone,English,Action|Drama|Thriller,39,27,5337,Color,USA,4,R,10000000,1987,92,1908,5.6,1.85,1600,234,775,5,1700
+Bamboozled,English,Comedy|Drama|Music,187,59,5494,Color,USA,0,R,10000000,2000,135,8936,6.5,1.85,1000,1000,1000,1600,1100
+Sphinx,English,Adventure|Mystery|Thriller,21,3,4273,Color,USA,1,PG,14000000,1981,118,937,5.2,2.35,948,128,493,77,2100
+The Iceman,English,Biography|Crime|Drama,146,220,36350,Color,USA,1,R,10000000,2012,106,58911,6.9,1.85,11000,20000,3900,36,11000
+A Better Life,English,Drama|Romance,80,92,2259,Color,USA,0,PG-13,10000000,2011,98,13652,7.2,1.85,249,4400,220,130,792
+Spider,English,Drama|Mystery|Thriller,216,159,11418,Color,Canada,0,R,8000000,2002,98,31241,6.8,1.78,1300,1600,545,2300,8700
+Nicholas Nickleby,English,Drama|Romance,102,84,34207,Color,UK,1,PG,10000000,2002,132,9791,7.2,2.35,11000,1200,2600,44,16000
+Gun Shy,English,Comedy|Crime|Romance,92,49,26686,Color,USA,0,R,10000000,2000,101,6105,5.7,1.85,8700,251,1200,4,14000
+The Joneses,English,Drama,90,141,13211,Color,USA,4,R,5000000,2009,96,34737,6.5,2.35,2300,5000,2200,18,6000
+Killer Joe,English,Crime|Drama|Thriller,221,376,19575,Color,USA,0,R,11000000,2011,102,62271,6.7,1.85,2600,12000,1800,632,12000
+Cecil B. DeMented,English,Comedy|Crime|Thriller,150,89,16048,Color,France,2,R,10000000,2000,87,11758,6.2,1.85,3900,884,1800,1300,5900
+Krrish,Hindi,Action|Adventure|Romance|Sci-Fi,110,20,7630,Color,India,0,Not Rated,10000000,2006,185,13761,6.3,2.35,2900,552,308,54,4100
+50 to 1,English,Drama,57,8,8633,Color,USA,0,PG-13,10000000,2014,110,1511,6.6,,1300,1800,558,84,6000
+Free Fire,English,Action|Comedy|Crime|Thriller,66,241,19875,Color,UK,1,R,10000000,2016,90,8618,6.9,2.35,5400,1400,2000,248,8200
+Owning Mahowny,English,Crime|Drama|Thriller,84,74,30466,Color,Canada,1,R,10000000,2003,104,10977,7.1,2.35,6900,1100,924,23,22000
+The Brothers Solomon,English,Comedy,46,52,13226,Color,USA,2,R,10000000,2007,93,9757,5.3,1.85,2900,335,1400,1400,2900
+The Ten Commandments,English,Adventure|Drama,244,57,9249,Color,USA,8,Approved,13282712,1956,220,50992,7.9,1.85,1600,12000,1200,322,3400
+My Blueberry Nights,English,Drama|Romance,119,190,39678,Color,Hong Kong,3,PG-13,10000000,2007,95,46069,6.7,2.35,6100,5200,5300,1400,20000
+Coriolanus,English,Drama|Thriller|War,121,201,27368,Color,UK,0,R,,2011,123,27908,6.2,2.35,8700,12000,463,8700,18000
+Illuminata,English,Drama|Romance,40,36,1687,Color,Spain,0,R,,1998,119,1420,6.2,1.85,663,77,54,1700,877
+Shaolin Soccer,Cantonese,Action|Comedy|Fantasy|Sport,247,246,2011, Black and White,Hong Kong,1,PG,10000000,2001,113,60570,7.3,1.85,479,5900,84,1300,1300
+"War, Inc.",English,Action|Comedy|Thriller,111,78,20442,Color,USA,4,R,10000000,2008,107,20298,5.7,1.78,3500,896,3500,0,5600
+The Brown Bunny,English,Drama,227,116,2088,Color,USA,0,Not Rated,10000000,2003,93,11986,5,1.66,788,959,100,788,1200
+Swept Away,English,Comedy|Romance,214,71,8029,Color,UK,0,R,10000000,2002,89,13557,3.6,1.85,1400,733,1000,2900,4600
+King of California,English,Comedy|Drama,66,89,9741,Color,USA,2,PG-13,,2007,93,20346,6.7,1.85,2500,1000,2300,6,3900
+The Swindle,French,Comedy|Crime|Thriller,21,38,1423,Color,France,0,,60000000,1997,101,1732,6.6,1.66,542,36,33,323,837
+The Chambermaid on the Titanic,French,Drama|Romance,15,22,1033,Color,France,1,,,1997,101,1164,6.8,2.35,135,85,33,165,846
+High Heels and Low Lifes,English,Action|Comedy|Drama,44,41,5774,Color,UK,2,R,10000000,2001,86,3124,6.2,1.85,924,115,830,310,2600
+Imaginary Heroes,English,Comedy|Drama,56,72,11491,Color,USA,2,R,4000000,2004,111,8854,7.2,2.35,2600,344,2600,24,4000
+World's Greatest Dad,English,Comedy|Drama,132,127,50581,Color,USA,0,R,,2009,99,33160,6.9,1.85,647,8200,349,824,49000
+"Cinco de Mayo, La Batalla",Spanish,Drama|History|War,3,12,226,Color,Mexico,1,R,10000000,2013,125,736,6.2,,62,928,36,21,78
+Welcome to the Rileys,English,Drama,56,109,36654,Color,UK,3,R,,2010,110,20880,7,1.85,8000,3200,7200,26,17000
+Kicks,English,Adventure,17,23,3069,Color,USA,0,R,,2016,80,2465,6.2,,322,1100,163,2,2400
+Free Style,English,Drama,4,14,2531,Color,Canada,3,PG,,2008,94,368,4.3,1.85,629,58,419,49,844
+Severance,English,Comedy|Horror|Thriller,197,199,2317,Color,UK,0,R,5000000,2006,96,32821,6.5,1.85,797,1800,359,83,830
+The Good the Bad the Weird,Korean,Action|Adventure|Comedy|Western,75,151,2900,Color,South Korea,2,R,10000000,2008,120,27802,7.3,2.35,406,6100,151,426,2300
+Police Academy: Mission to Moscow,English,Comedy|Crime,102,17,28154,Color,USA,6,PG,6200000,1994,83,26165,3.3,1.85,5800,337,2100,4,16000
+Edmond,English,Drama|Thriller,120,82,11684,Color,USA,1,R,10000000,2005,82,10176,6.3,1.85,1600,670,1300,213,2600
+Blood Done Sign My Name,English,Drama,3,20,6897,Color,USA,0,PG-13,,2010,128,475,6.6,2.35,792,507,704,13,2400
+Eulogy,English,Comedy|Drama,69,26,21443,Color,USA,6,R,6500000,2004,91,7871,6.7,1.85,3600,476,1600,0,11000
+The Good Guy,English,Comedy|Romance,21,21,13789,Color,USA,2,R,8000000,2009,90,8154,5.9,1.85,2400,1000,1800,0,4300
+An Alan Smithee Film: Burn Hollywood Burn,English,Comedy,87,30,4725,Color,USA,0,R,10000000,1997,86,3037,3.5,1.85,872,97,514,175,1900
+Motherhood,English,Comedy|Drama,24,42,6406,Color,USA,1,PG-13,5000000,2009,90,3794,4.7,1.85,1000,557,924,9,3100
+The Open Road,English,Comedy|Drama,11,21,22990,Color,USA,2,PG-13,10000000,2009,91,3067,5.5,2.35,3800,369,3100,7,12000
+Elsa & Fred,English,Comedy|Drama|Romance,18,58,9899,Color,USA,0,PG-13,10000000,2014,93,2293,6.5,2.35,1500,2900,1300,54,2400
+Of Horses and Men,Icelandic,Comedy|Drama|Romance,8,68,89,Color,Iceland,0,,10000000,2013,81,2288,6.9,2.35,10,1100,5,5,69
+Strangerland,English,Drama|Mystery|Thriller,63,88,12981,Color,Ireland,0,R,10000000,2015,112,6498,5.2,2.39,4600,1400,2400,96,5600
+The Janky Promoters,English,Comedy|Crime|Music,10,4,3735,Color,USA,2,R,,2009,85,1155,5.3,1.85,726,421,410,8,1700
+The Oxford Murders,English,Crime|Mystery|Thriller,95,69,14884,Color,Spain,4,R,10000000,2008,104,23850,6.1,2.35,3500,2300,2200,281,6900
+Blonde Ambition,English,Comedy|Romance,34,20,7258,Color,USA,1,PG-13,10000000,2007,93,5139,3.9,1.85,1200,164,911,7,1200
+White Noise 2: The Light,English,Drama|Fantasy|Horror|Thriller,85,60,9465,Color,USA,0,PG-13,10000000,2007,99,11588,5.7,2.35,2300,545,304,71,6200
+Barbecue,French,Comedy,1,17,285,Color,France,16,,,2014,98,1968,6.1,2.35,57,385,5,0,201
+You Got Served: Beat the World,English,Drama|Music,11,6,961,Color,Canada,0,PG-13,10000000,2011,91,1699,4.5,2.35,155,1200,111,8,480
+The Reef,English,Horror|Thriller,95,100,397,Color,Australia,0,R,,2010,94,12997,5.8,2.35,121,2900,75,10,127
+It's a Wonderful Afterlife,English,Comedy|Drama|Horror|Romance,16,31,2252,Color,UK,1,PG-13,10000000,2010,100,1285,5.4,2.35,894,698,102,104,1000
+Fifty Dead Men Walking,English,Crime|Drama|Thriller,38,77,13247,Color,UK,1,R,6000000,2008,117,9878,6.9,2.35,3500,1200,2100,15,5000
+Plastic,English,Action|Comedy|Crime|Drama,12,29,41908,Color,UK,7,R,10000000,2014,102,6355,6,,4300,1000,1900,8,31000
+Jungle Shuffle,English,Adventure|Animation,2,8,6022,Color,South Korea,0,,10000000,2014,85,182,4.8,,1600,189,1000,0,2100
+Adam Resurrected,English,Drama|War,32,75,41988,Color,Germany,3,R,10000000,2008,106,3197,6.3,2.35,6700,609,3900,282,30000
+The Devil's Tomb,English,Action|Horror|Sci-Fi,60,32,14583,Color,USA,4,R,10000000,2009,90,5854,3.8,1.85,2200,496,1400,113,5800
+Good Intentions,English,Comedy,3,3,5534,Color,USA,5,PG-13,10000000,2010,84,563,5.2,,1300,120,679,5,1400
+Detention,English,Comedy|Horror|Sci-Fi,77,113,17839,Color,USA,2,R,10000000,2011,93,13046,5.8,2.35,2800,3400,394,35,14000
+Partition,English,Drama|Romance,27,16,7233,Color,Canada,2,R,10000000,2007,116,2282,7,2.35,1800,746,1500,22,3500
+Into the Grizzly Maze,English,Action|Horror|Thriller,44,53,14161,,USA,4,R,10000000,2015,94,5665,5.3,1.85,3800,1700,1900,42,4300
+Nurse 3D,English,Horror|Thriller,77,131,5956,Color,USA,0,R,10000000,2013,84,7851,4.6,2.35,1100,2900,948,35,1100
+Gunless,English,Action|Comedy|Drama|Western,28,15,6058,Color,Canada,2,,10000000,2010,89,3122,6.5,2.35,1200,864,762,3,1900
+American Heist,English,Action|Crime|Drama|Thriller,45,30,24584,Color,Canada,2,R,10000000,2014,94,13872,5.2,,5100,1700,4100,9,7200
+Adventureland,English,Comedy|Drama|Romance,225,252,29412,Color,USA,6,R,,2009,107,137170,6.8,1.85,6100,5400,2900,102,17000
+The Lost City,English,Drama|Romance,165,52,5325,Color,USA,0,R,9600000,2005,144,8559,6.7,1.85,1300,1100,788,2300,2300
+Next Friday,English,Comedy,85,54,6863,Color,USA,7,R,11000000,2000,98,29433,6.1,1.85,1100,1200,755,42,1700
+Amour,French,Drama|Romance,194,452,1901,Color,Austria,1,PG-13,8900000,2012,127,75148,7.9,1.85,608,34000,327,1800,837
+You Only Live Twice,English,Action|Adventure|Thriller,276,133,9583,Color,UK,0,PG,9500000,1967,117,79269,6.9,2.35,832,3800,469,46,7300
+Poltergeist III,English,Horror|Thriller,115,75,4065,Color,USA,0,PG-13,10500000,1988,98,13890,4.6,1.85,975,664,805,18,1100
+Gentlemen Broncos,English,Adventure|Comedy|Sci-Fi,56,104,38722,Color,USA,7,PG-13,,2009,89,9563,6.2,,2400,3600,1900,100,33000
+The Runaways,English,Biography|Drama|Music,129,261,32700,Color,USA,2,R,10000000,2010,106,40975,6.6,2.35,6900,9800,3900,50,17000
+Re-Kill,English,Action|Horror,30,19,6535,Color,USA,0,R,9500000,2015,88,2013,5,1.78,569,950,380,7,4600
+It's a Mad Mad Mad Mad World,English,Action|Adventure|Comedy|Crime,350,62,10199,Color,USA,5,Approved,9400000,1963,154,30943,7.6,2.76,941,8800,905,187,5700
+Melancholia,English,Drama,561,404,32499,Color,Denmark,1,R,7400000,2011,135,137260,7.1,2.35,6900,52000,4100,3100,11000
+Volver,Spanish,Comedy|Crime|Drama|Mystery,236,230,5775,Color,Spain,1,R,7450000,2006,121,80597,7.6,2.35,161,5100,119,5600,5300
+Tinh Yeu Bat Diet,Hindi,Drama|Family|Romance,287,51,15034,Color,India,4,Not Rated,7217600,2012,198,44897,6.9,2.35,3100,12000,1200,148,8100
+Heavy Metal,English,Adventure|Animation|Fantasy|Horror|Sci-Fi,151,62,5790,Color,Canada,1,R,9300000,1981,86,25019,6.7,1.37,1200,6100,1200,0,2700
+Richard III,English,Drama|War,89,55,38619,Color,UK,3,R,6000000,1995,104,12083,7.5,2.35,6300,1600,5500,13,21000
+Kites,English,Action|Drama|Romance|Thriller,106,39,4769,Color,India,0,,600000000,2010,123,10340,6.1,,593,2500,417,120,2900
+Loose Cannons,Italian,Comedy|Drama|Romance,30,77,694,Color,Italy,9,,,2010,110,9233,7.3,2.35,29,2200,15,795,610
+Red Dog,English,Biography|Comedy|Drama|Family|Romance,81,55,6088,Color,Australia,0,PG,8500000,2011,92,13788,7.5,2.35,1300,10000,515,26,3500
+Alien,English,Horror|Sci-Fi,1167,415,16535,Color,UK,0,R,11000000,1979,117,613839,8.5,2.35,4000,28000,1600,7400,6900
+Fiddler on the Roof,English,Drama|Family|Musical|Romance,152,65,1092,Color,USA,4,G,9000000,1971,181,31409,8,2.35,371,4900,52,282,521
+The Purge: Anarchy,English,Action|Horror|Sci-Fi|Thriller,254,300,8631,Color,France,0,R,9000000,2014,103,106631,6.5,2.35,1400,15000,1100,65,2000
+The Texas Chain Saw Massacre,English,Horror,834,289,1123,Color,USA,0,R,300000,1974,83,103550,7.5,1.85,373,7300,193,380,390
+Thunderball,English,Action|Adventure|Thriller,286,128,8549,Color,UK,2,PG,9000000,1965,130,86028,7,2.35,264,3500,200,96,7300
+Ouija: Origin of Evil,English,Horror|Thriller,114,198,4441,Color,Japan,0,PG-13,9000000,2016,99,30266,6.1,1.85,1100,9900,890,88,1600
+The Wailing,Korean,Drama|Fantasy|Horror|Mystery|Thriller,81,165,81,Color,South Korea,0,Not Rated,,2016,156,18152,7.5,2.35,24,7300,6,63,48
+Set It Off,English,Action|Crime|Drama|Romance|Thriller,72,30,7208,Color,USA,4,R,9000000,1996,123,10871,6.8,2.35,1400,1800,904,497,2000
+The Best Man,English,Drama,39,24,3116, Black and White,USA,3,Approved,,1964,102,2389,7.7,1.66,775,551,415,77,1500
+Child's Play,English,Horror|Thriller,287,147,4091,Color,USA,0,R,9000000,1988,87,65812,6.5,1.85,1100,3600,322,89,2200
+Sicko,English,Documentary|Drama,429,264,2925,Color,USA,1,PG-13,9000000,2007,123,68691,8,1.85,935,8200,209,935,1200
+Harold & Kumar Go to White Castle,English,Adventure|Comedy,318,151,9464,Color,USA,3,R,9000000,2004,88,161065,7.1,1.85,1600,4900,1300,9,2300
+Trading Places,English,Comedy,164,75,4367,Color,USA,2,R,,1983,116,109276,7.5,1.85,410,9700,253,671,3500
+Down to You,English,Comedy|Drama|Romance,173,65,16754,Color,USA,1,PG-13,35000000,2000,91,12716,4.9,1.85,3200,595,3100,0,4300
+Boiler Room,English,Crime|Drama|Thriller,246,132,29274,Color,USA,5,R,7000000,2000,120,43029,7,1.85,6800,2900,3500,50,14000
+The Contender,English,Drama|Thriller,372,139,36519,Color,USA,0,R,20000000,2000,126,21023,7,1.85,10000,1100,6200,39,12000
+Black Christmas,English,Horror|Mystery|Thriller,346,218,2649,Color,Canada,0,R,620000,1974,98,23296,7.2,1.75,639,4500,521,93,794
+The Edge of Seventeen,English,Comedy|Drama,133,172,9563,Color,USA,0,R,9000000,2016,104,48393,7.4,1.85,2500,4700,967,8,5100
+The Ice Pirates,English,Action|Adventure|Comedy|Romance|Sci-Fi,57,34,9188,Color,USA,4,PG,9000000,1984,91,8227,5.7,1.85,1300,3000,1000,12,5800
+Jackie: De Nhat Phu Nhan,English,Biography|Drama|History,215,368,34051,Color,Chile,1,R,9000000,2016,100,41993,6.8,1.66,6900,13000,1900,78,20000
+Breakin' All the Rules,English,Comedy|Romance,26,38,12378,Color,USA,1,PG-13,,2004,85,4369,5.5,2.35,2200,272,2000,2,2900
+Glee: The 3D Concert Movie,English,Documentary|Music,22,65,24503,Color,USA,0,PG,9000000,2011,84,5256,5.4,1.85,3800,3600,3500,77,4300
+Henry V,English,Action|Biography|Drama|History|Romance|War,108,44,7535,Color,UK,1,PG-13,9000000,1989,137,24332,7.7,1.85,1300,1500,644,4800,4800
+The Savages,English,Comedy|Drama,128,202,25806,Color,USA,0,R,,2007,114,32888,7.2,1.85,2000,1800,927,84,22000
+Chasing Papi,English,Comedy|Romance,42,31,9961,Color,USA,3,PG,,2003,80,3516,4.8,1.85,1900,423,642,17,5100
+Hamlet 2,English,Comedy|Music,75,128,11896,Color,USA,1,R,9000000,2008,92,15443,6.4,1.85,1800,1100,1200,26,5000
+Igby Goes Down,English,Comedy|Drama,239,136,23934,Color,USA,1,R,9000000,2002,98,29703,7,2.35,3800,883,2600,23,6700
+The Way of the Gun,English,Action|Crime|Drama|Thriller,329,118,14801,Color,USA,4,R,8500000,2000,119,28235,6.7,1.85,2500,1200,1900,192,3700
+The Ultimate Gift,English,Drama|Family|Romance,86,45,14318,Color,USA,1,PG,,2006,114,14892,7.4,1.85,3500,3900,1000,6,6800
+PCU,English,Comedy,52,15,7550,Color,USA,0,PG-13,8000000,1994,79,10793,6.6,1.85,1400,2500,1100,173,4100
+The Bold and the Beautiful,English,Drama|Romance,57,1,642,Color,USA,15,TV-14,,,30,5802,3.5,1.78,172,806,138,,178
+Gracie,English,Biography|Drama|Sport,27,64,7264,Color,USA,1,PG-13,9000000,2007,95,3708,6.2,2.35,1800,306,702,49,3400
+Trust the Man,English,Comedy|Drama|Romance,63,99,21690,Color,USA,3,R,9000000,2005,103,7931,5.7,2.35,5900,213,2300,38,9400
+Greater,English,Biography|Family|Sport,27,12,6943,Color,USA,1,PG,9000000,2016,130,2464,7.2,,1400,5200,862,2,3200
+Velvet Goldmine,English,Drama|Music,315,102,43530,Color,UK,1,R,,1998,118,28835,7,1.85,9700,5400,6400,176,23000
+Princess Kaiulani,English,Drama,15,25,3660,Color,USA,3,PG,9000000,2009,97,1304,6.2,2.35,694,1300,548,3,2200
+Undiscovered,English,Comedy|Music|Romance,45,41,13630,Color,Germany,2,PG-13,9000000,2005,97,2636,4.2,2.35,2400,126,1700,0,4800
+The Legend of Suriyothai,Thai,Action|Adventure|Drama|History|War,48,30,31,Color,Thailand,3,R,400000000,2001,185,1703,6.6,1.85,6,146,5,6,7
+Two Evil Eyes,English,Horror,47,75,5106,Color,Italy,0,R,9000000,1990,120,4584,6.1,1.85,1100,427,624,993,1900
+The Girl on the Train,French,Drama,16,67,1429,Color,France,1,Unrated,,2009,97,1278,6,2.35,185,128,97,28,991
+Red Riding: The Year of Our Lord 1974,English,Crime|Drama|Mystery|Thriller,46,91,16390,Color,UK,0,Not Rated,,2009,102,9746,7.1,1.85,3500,1700,1300,16,10000
+All or Nothing,English,Drama,96,81,1561,Color,UK,0,R,9000000,2002,128,8447,7.6,1.85,153,501,45,619,1300
+Flame and Citron,Danish,Drama|History|Thriller|War,44,80,8298,Color,Denmark,1,Not Rated,45000000,2008,130,15049,7.3,2.35,612,2700,205,28,7100
+Leaves of Grass,English,Comedy|Crime|Drama|Thriller,64,75,17597,Color,USA,2,R,9000000,2009,105,24647,6.5,1.85,3000,5000,2600,637,8800
+Opal Dream,English,Drama|Family,6,24,303,Color,Australia,0,PG,11400000,2006,86,835,6.7,1.85,62,133,18,11,188
+Skin Trade,English,Action|Crime|Thriller,41,71,16744,Color,Thailand,5,R,9000000,2014,96,5933,5.7,2.35,3500,2300,2400,4,5800
+Veronika Decides to Die,English,Drama|Romance,44,19,11138,Color,USA,1,R,9000000,2009,103,10597,6.5,2.35,3200,3200,1400,5,4000
+Beneath Hill 60,English,Drama|History|War,39,17,547,Color,Australia,11,R,9000000,2010,122,6102,7.1,2.35,127,1200,60,8,173
+Barbarella,English,Adventure|Comedy|Fantasy|Sci-Fi,188,111,1594,Color,France,2,PG,9000000,1968,98,25963,5.9,2.35,182,6100,176,151,1000
+The Haunting in Connecticut 2: Ghosts of Georgia,English,Drama|Horror|Mystery|Thriller,57,78,15875,Color,USA,0,R,9000000,2013,101,13858,5.3,2.35,3100,7300,2300,16,7200
+Polisse,French,Crime|Drama,35,163,1190,Color,France,1,Not Rated,,2011,127,11418,7.3,1.85,252,2900,73,252,610
+Heist,English,Action|Crime|Thriller,67,47,37200,Color,USA,1,R,9000000,2015,93,20002,6.1,2.35,3300,9500,3000,8,22000
+"Ultramarines: A Warhammer 40,000 Movie",English,Action|Animation|Fantasy|Horror|Mystery|Sci-Fi|Thriller,67,18,9472,Color,UK,0,R,,2010,76,5149,5.7,1.85,1300,3700,735,7,6900
+Crocodile Dundee,English,Adventure|Comedy,96,34,876,Color,Australia,1,PG-13,8800000,1986,97,78158,6.5,2.35,166,2700,95,5,474
+Manchester by the Sea,English,Drama,529,439,5397,Color,USA,0,R,8500000,2016,137,136123,7.9,1.85,1700,37000,96,93,3500
+The I Inside,English,Mystery|Sci-Fi|Thriller,58,33,9145,Color,UK,2,R,8800000,2004,90,9523,6.1,2.35,1900,471,1800,3,1900
+Awake,English,Drama|Fantasy|Mystery|Sci-Fi,62,17,10731,Color,USA,2,TV-14,,,43,19040,7.9,1.78,2500,5100,1300,,3800
+Crazy Heart,English,Drama|Music|Romance,230,272,19122,Color,USA,0,R,7000000,2009,112,71744,7.3,2.35,5900,7100,673,111,12000
+Star Wars: The Clone Wars,English,Action|Adventure|Animation|Drama|Fantasy|Sci-Fi,81,45,4348,Color,USA,3,TV-PG,,,23,31782,8,2.35,685,2200,302,,2800
+The DUFF,English,Comedy,123,134,46827,Color,USA,4,PG-13,8500000,2015,101,57975,6.5,2.35,4600,8200,3100,17,34000
+Nightcrawler,English,Crime|Drama|Thriller,592,545,28677,Color,USA,1,R,8500000,2014,118,333147,7.9,2.35,13000,69000,327,69,15000
+The Lost Boys,English,Comedy|Horror,348,152,13376,Color,USA,8,R,,1987,97,98071,7.2,2.35,1800,22000,1600,558,4100
+The Rose,English,Drama|Music|Romance,52,31,7006,Color,USA,0,R,8500000,1979,125,6500,6.9,1.85,1600,1100,1200,46,2900
+Baggage Claim,English,Comedy,41,53,14668,Color,USA,9,PG-13,8500000,2013,96,7489,5.1,1.85,3000,1800,1700,73,3200
+Shipwrecked,English,Adventure|Family,14,6,1348,Color,Norway,2,PG,60000000,1990,92,2049,6.7,2.35,36,288,6,6,1300
+Middle School: The Worst Years of My Life,English,Comedy|Family,23,38,3289,Color,USA,7,PG,8500000,2016,92,3824,6.1,2.35,456,1200,406,42,1400
+Election,English,Comedy|Drama|Romance,448,174,7463,Color,USA,0,R,25000000,1999,103,76333,7.3,2.35,2000,3100,839,732,3900
+The Namesake,English,Drama,121,167,4287,Color,USA,1,PG-13,,2006,122,17100,7.6,1.85,1100,2400,590,314,1500
+All Is Lost,English,Action|Adventure|Drama,324,352,6400,Color,USA,0,PG-13,9000000,2013,106,63075,6.9,2.35,,19000,,80,6400
+Club Dread,English,Comedy|Horror|Thriller,201,65,3400,Color,USA,2,R,8600000,2004,104,24624,5.6,2.35,496,796,461,461,867
+Bright Star,English,Biography|Drama|Romance,110,223,11618,Color,UK,0,PG,8500000,2009,119,22159,7,1.85,3600,5700,2000,325,4600
+Silmido,Korean,Action|Drama,17,15,128,Color,South Korea,0,,8000000,2003,135,3472,7.2,2.35,15,393,13,0,57
+Glitter,English,Drama|Music|Romance,312,68,4411,Color,USA,1,PG-13,22000000,2001,104,19853,2.2,2.35,760,1500,219,180,2500
+The Rover,English,Crime|Drama,176,252,29392,Color,Australia,0,R,8500000,2014,103,36097,6.4,2.35,4200,8000,3400,87,21000
+Repo! The Genetic Opera,English,Horror|Musical|Sci-Fi,261,146,6844,Color,USA,1,R,8500000,2008,98,21068,6.7,1.85,1400,8100,1200,181,2000
+Namastey London,Hindi,Comedy|Drama|Romance,47,15,5867,Color,India,2,,,2007,128,16394,7.3,,1700,341,740,11,3100
+T,Hindi,Adventure|Drama|Romance|Thriller,242,210,14038,Color,India,2,PG-13,12000000,2010,165,78568,8,2.35,4300,28000,1100,161,8100
+Yeh Jawaani Hai Deewani,Hindi,Comedy|Drama|Musical|Romance,104,25,3841,Color,India,2,Not Rated,,2013,160,28707,7,,965,2100,553,36,1300
+Limbo,English,Adventure|Drama|Thriller,141,41,3640,Color,USA,0,R,8000000,1999,126,5256,7.1,1.85,1300,202,650,408,1500
+The Wind That Shakes the Barley,English,Drama|War,224,172,9529,Color,Ireland,1,Not Rated,,2006,127,38670,7.5,1.85,1200,5100,97,720,8200
+Kurtlar Vadisi,Turkish,Action|Crime|Drama|Thriller,10,,399,Color,Turkey,3,,,,65,9209,7.1,,102,166,38,,203
+The City of Your Final Destination,English,Drama|Romance,26,54,4073,Color,USA,2,PG-13,8300000,2009,117,2419,6.4,1.85,1200,660,477,180,2000
+Quo Vadis,English,Biography|Drama|History|Romance,95,53,1491,Color,USA,4,Approved,7623000,1951,171,10584,7.2,1.37,453,1000,347,77,468
+The Sound of Music,English,Biography|Drama|Family|Musical|Romance,409,123,6837,Color,USA,8,G,8200000,1965,174,158230,8,2.35,2400,17000,359,389,2700
+Footloose,English,Drama|Music|Romance,116,57,13955,Color,USA,0,PG,8200000,1984,107,55500,6.5,1.85,2700,8300,2000,82,7200
+Pulp Fiction,English,Crime|Drama,2300,219,36728,Color,USA,1,R,8000000,1994,154,1420439,8.9,2.35,7500,48000,4600,16000,13000
+The Karate Kid,English,Action|Drama|Family|Sport,242,84,9511,Color,USA,0,PG,8000000,1984,126,137226,7.2,1.85,1800,9400,1500,86,4100
+The Muppet Movie,English,Adventure|Comedy|Family|Musical,94,62,11792,Color,UK,0,G,,1979,95,26716,7.6,1.85,1600,2700,1100,21,3200
+Little Miss Sunshine,English,Comedy|Drama,890,239,26838,Color,USA,1,R,8000000,2006,101,374398,7.8,2.35,7000,16000,3500,38,7100
+Splash,English,Comedy|Fantasy|Romance,103,35,20420,Color,USA,2,PG,8000000,1984,111,57496,6.2,1.85,2700,3500,1200,2300,15000
+Easy A,English,Comedy|Drama|Romance,273,265,44103,Color,USA,1,PG-13,8000000,2010,92,295233,7.1,1.85,8400,19000,4800,85,15000
+Stand by Me,English,Adventure|Drama,598,102,13174,Color,USA,0,R,8000000,1986,89,290888,8.1,1.85,2300,26000,1800,9900,4100
+Escape from Alcatraz,English,Biography|Crime|Drama,146,55,18769,Color,USA,0,PG,8000000,1979,112,92504,7.6,1.85,517,5000,515,162,17000
+You Got Served,English,Drama|Music,248,57,5239,Color,USA,1,PG-13,8000000,2004,95,23997,3.5,1.85,1100,1100,396,566,2300
+28 Days Later...,English,Drama|Horror|Sci-Fi|Thriller,1450,232,11745,Color,UK,0,R,8000000,2002,113,314140,7.6,1.85,1700,12000,1600,2000,8200
+50/50,English,Comedy|Drama|Romance,385,328,45013,Color,USA,2,R,8000000,2011,100,281805,7.7,1.85,10000,40000,5100,131,23000
+Brown Sugar,English,Comedy|Drama|Music|Romance,60,36,7966,Color,USA,1,PG-13,8000000,2002,109,6317,6.5,1.85,1500,1500,1100,49,2000
+A Thin Line Between Love and Hate,English,Comedy|Crime|Drama|Romance|Thriller,14,11,7521,Color,USA,2,R,8000000,1996,108,3318,5.7,2.35,2100,578,595,2100,2300
+Howards End,English,Drama|Romance,89,54,22941,Color,UK,3,PG,,1992,140,22412,7.5,2.35,7700,955,2300,180,12000
+That Awkward Moment,English,Comedy|Romance,102,169,19509,Color,USA,3,R,8000000,2014,94,81905,6.2,2.35,3900,7300,2700,19,7400
+Shutter,English,Horror|Mystery|Thriller,149,132,5494,Color,USA,1,PG-13,8000000,2008,85,28061,5.2,1.85,1300,2600,592,5,2500
+On Her Majesty's Secret Service,English,Action|Adventure|Thriller,464,145,3521,Color,UK,2,PG,7000000,1969,142,63489,6.8,2.35,881,3200,328,12,1600
+Modern Problems,English,Comedy|Fantasy|Sci-Fi,49,14,3210,Color,USA,1,PG,8000000,1981,89,4125,5,1.85,545,529,359,2,1600
+Much Ado About Nothing,English,Comedy|Drama|Romance,174,41,49636,Color,UK,7,PG-13,11000000,1993,111,38651,7.4,1.85,19000,3000,7600,4800,19000
+Akeelah and the Bee,English,Drama,173,95,10017,Color,USA,0,PG,,2006,112,15949,7.5,2.35,1700,2800,1400,3,2600
+The Player,English,Comedy|Crime|Drama|Thriller,155,76,17770,Color,USA,1,R,8000000,1992,124,44315,7.6,1.85,4900,1500,2300,583,5900
+Creepshow,English,Comedy|Fantasy|Horror,217,131,17265,Color,USA,0,R,8000000,1982,120,32048,6.9,1.85,3600,4100,2900,2900,7700
+New Nightmare,English,Fantasy|Horror|Mystery|Thriller,276,112,13519,Color,USA,0,R,8000000,1994,112,40463,6.4,1.85,3200,1700,2100,6400,6400
+Enough Said,English,Comedy|Drama|Romance,143,232,16227,Color,USA,2,PG-13,8000000,2013,93,51511,7.1,1.85,3300,13000,2500,133,8000
+Drive Me Crazy,English,Comedy|Drama|Romance,149,60,7749,Color,USA,2,PG-13,8500000,1999,91,15574,5.7,1.85,1800,1200,1800,13,2300
+Half Baked,English,Comedy|Crime,165,40,6245,Color,USA,2,R,8000000,1998,82,50178,6.7,1.85,1100,2700,752,36,2600
+Begin Again,English,Drama|Music,202,283,21039,Color,USA,1,R,8000000,2013,104,112071,7.4,1.85,6600,46000,2500,131,7700
+American Psycho,English,Crime|Drama,1080,286,44805,Color,USA,1,R,7000000,2000,102,381698,7.6,2.35,6700,19000,3900,134,23000
+The Good Girl,English,Drama|Romance,299,108,39115,Color,USA,5,R,8000000,2002,93,39148,6.5,1.85,11000,977,6600,45,15000
+Syriana,English,Drama|Thriller,626,357,32336,Color,USA,0,R,50000000,2005,128,113421,7,2.35,9500,3600,2400,86,14000
+Bon Cop Bad Cop,English,Action|Comedy|Crime|Thriller,92,18,902,Color,Canada,2,R,8000000,2006,116,9339,7,2.35,294,924,52,31,540
+The Boondock Saints II: All Saints Day,English,Action|Crime|Thriller,187,88,22327,Color,USA,0,R,8000000,2009,118,55187,6.3,2.35,3100,9700,2100,80,12000
+The Inkwell,English,Comedy|Drama|Romance,11,7,6408,Color,USA,0,R,,1994,110,1140,6.5,1.85,881,162,848,10,2200
+Shadow of the Vampire,English,Drama|Horror,340,200,16817, Black and White,UK,1,R,8000000,2000,92,35202,6.9,2.35,3900,3300,2300,54,8800
+Prom,English,Comedy|Drama,33,84,6343,Color,USA,0,PG,8000000,2011,104,13271,5.4,1.85,1000,2500,957,18,1100
+New in Town,English,Comedy|Romance,78,120,28342,Color,USA,1,PG,8000000,2009,97,18281,5.6,1.85,2500,1500,852,0,24000
+Me and Earl and the Dying Girl,English,Comedy|Drama,192,301,8936,Color,USA,1,PG-13,8000000,2015,105,92303,7.8,2.35,1700,17000,1200,214,2300
+It's Kind of a Funny Story,English,Comedy|Drama|Romance,156,161,18415,Color,USA,3,PG-13,8000000,2010,101,113685,7.1,1.85,4100,20000,1400,16,7700
+The Pallbearer,English,Comedy|Romance,56,19,13993,Color,USA,2,PG-13,8000000,1996,98,6920,4.9,1.85,3300,127,1500,221,4200
+Woman on Top,English,Comedy|Fantasy|Romance,87,72,8096,Color,USA,0,R,8000000,2000,92,8849,5.3,2.35,1000,869,979,26,5300
+Held Up,English,Comedy,34,11,9430,Color,USA,2,PG-13,8000000,1999,89,2965,5.1,1.85,1900,78,1200,16,2900
+Morgan,English,Horror|Sci-Fi|Thriller,112,160,18262,Color,USA,0,R,8000000,2016,92,22305,5.8,2.35,3800,4900,3300,9,3900
+Anomalisa,English,Animation|Comedy|Drama|Romance,168,355,2957,Color,USA,0,R,8000000,2015,90,44775,7.2,2.35,1100,9900,457,26,1400
+Captain America: Civil War,English,Action|Adventure|Sci-Fi,1183,586,92822,Color,USA,0,PG-13,250000000,2016,147,413491,7.9,2.35,19000,81000,11000,98,21000
+Another Year,English,Comedy|Drama,144,246,3618,Color,UK,0,PG-13,10000000,2010,129,24513,7.3,2.35,1000,5400,598,619,1300
+8 Women,French,Comedy|Crime|Musical|Romance,163,130,3854,Color,France,8,R,8000000,2002,111,24633,7.1,1.85,837,1300,594,336,991
+Showdown in Little Tokyo,English,Action|Comedy|Crime|Thriller,105,46,7727,Color,USA,2,R,8000000,1991,79,13221,6.1,1.85,1800,1300,1000,79,3500
+Clay Pigeons,English,Comedy|Crime,108,54,10658,Color,USA,1,R,8000000,1998,104,9656,6.6,1.85,2600,521,1700,71,4400
+Made in Dagenham,English,Biography|Comedy|Drama|History,74,161,8967,Color,UK,6,R,7200000,2010,113,11738,7.2,2.35,1200,6800,639,13,5000
+When Did You Last See Your Father,English,Biography|Drama,34,88,15902,Color,UK,4,PG-13,8000000,2007,92,3677,6.9,2.35,1000,439,303,12,14000
+The Secret of Kells,English,Adventure|Animation|Family|Fantasy,74,119,1778,Color,France,0,Not Rated,6500000,2009,75,24808,7.7,1.85,64,11000,5,47,1700
+The Wicked Lady,English,Adventure|Drama,16,18,2547,Color,UK,0,R,8000000,1983,98,871,4,1.85,725,79,265,137,1000
+Brooklyn Rules,English,Crime|Drama,48,40,8361,Color,USA,2,R,8000000,2007,99,5160,6.4,2.35,1600,232,1600,30,2400
+Prefontaine,English,Biography|Drama|Romance|Sport,37,23,12442,Color,USA,2,PG-13,8000000,1997,106,6033,6.8,1.66,1500,1300,1500,23,6700
+Down in the Valley,English,Drama|Romance|Thriller,111,73,26676,Color,USA,2,R,8000000,2005,108,16889,6.4,2.35,5400,413,2400,12,8800
+The Singing Detective,English,Comedy|Crime|Musical|Mystery,80,66,58797,Color,USA,2,R,8000000,2003,109,7300,5.6,1.85,18000,496,5400,205,21000
+Fido,English,Comedy|Drama|Horror|Sci-Fi,99,141,881, Black and White,Canada,1,R,8000000,2006,93,25784,6.7,2.35,179,7000,78,8,566
+The Land Girls,English,Drama|Romance|War,27,36,11518,Color,UK,3,R,,1998,111,1662,6.3,2.35,4800,87,742,2,5300
+Restless,English,Drama|Romance,32,162,4590,Color,USA,0,PG-13,15000000,2011,91,15676,6.8,1.85,404,5300,288,835,3100
+The Wendell Baker Story,English,Comedy|Drama|Romance,27,31,20931,Color,USA,4,PG-13,8000000,2005,99,5243,5.5,2.35,3700,144,3500,388,8000
+Wild Target,English,Action|Comedy|Crime,88,66,28299,Color,UK,4,PG-13,8000000,2010,98,31399,6.9,2.35,5900,5200,5700,39,10000
+Wuthering Heights,English,Drama|Romance,33,8,36985,Color,UK,2,,,,142,6582,7.7,,6300,1800,1300,,27000
+A Street Cat Named Bob,English,Biography|Comedy|Drama|Family,50,64,4639,Color,UK,0,Unrated,8000000,2016,103,12908,7.4,2.35,1400,13000,426,61,2100
+Pathology,English,Crime|Horror|Thriller,109,77,8521,Color,USA,0,R,8000000,2008,95,27722,6,2.35,2300,3100,979,3,2900
+10th & Wolf,English,Crime|Drama|Thriller,34,25,19103,Color,USA,5,R,8000000,2006,107,5672,6.4,2.35,3600,308,3500,54,4300
+Aloft,English,Drama,13,58,19898,Color,Spain,1,R,8000000,2014,112,2478,5.3,2.35,6400,688,3600,44,8200
+Fireflies in the Garden,English,Drama,55,66,38658,Color,USA,6,R,8000000,2008,99,11122,6.5,2.35,8100,1200,3900,8,16000
+Dear Wendy,English,Comedy|Crime|Drama|Romance,57,99,7788,Color,Italy,0,Unrated,50000000,2004,105,9206,6.6,1.66,1400,555,1200,353,2600
+The Death and Life of Bobby Z,English,Action|Crime|Thriller,31,29,45522,Color,USA,2,R,22000000,2007,97,12482,5.9,2.35,10000,1200,3200,17,23000
+Akira,Japanese,Action|Animation|Drama|Fantasy|Sci-Fi|Thriller,439,158,29,Color,Japan,0,R,1100000000,1988,124,115097,8.1,1.85,5,9000,4,78,6
+The Rocket,French,Biography|Drama|Sport,32,20,752,Color,Canada,1,PG,8000000,2005,124,4523,7.7,2.35,269,560,23,2,428
+Green Street 3: Never Back Down,English,Action|Drama,15,28,7198,Color,UK,4,R,,2013,93,4150,5.4,2.35,1300,1900,530,16,4600
+Swelter,English,Action|Crime|Drama|Thriller,24,22,16920,Color,USA,6,R,8000000,2014,96,2209,4.5,,1400,452,1200,2,9600
+Christmas in Beverly Hills,Italian,Comedy,2,2,514,Color,Italy,9,PG,8000000,2009,110,506,3.5,1.85,102,14,86,4,186
+Mr. Church,English,Comedy|Drama,95,32,11516,Color,USA,2,PG-13,8000000,2016,104,16313,7.7,1.78,2500,11000,2200,244,3600
+Code of Honor,English,Action|Crime|Thriller,21,20,8078,Color,USA,0,R,8000000,2016,106,1291,4.3,,1000,815,656,155,4900
+Imagine Me & You,English,Comedy|Drama|Romance,151,85,12783,Color,UK,0,R,7900000,2005,90,24442,6.8,2.35,3300,2200,1900,24,5500
+The Blood of Heroes,English,Action|Sci-Fi|Sport,42,21,8784,Color,Australia,2,R,10000000,1989,90,5029,6.5,1.33,2300,1000,886,74,4900
+Swimming Pool,English,Crime|Drama|Mystery|Thriller,291,162,3408,Color,France,0,R,,2003,102,36394,6.8,1.85,865,1400,518,336,2000
+Far from Men,French,Drama|War|Western,20,102,10222,Color,France,0,,7700000,2014,101,4806,7.2,2.35,156,2200,41,2,10000
+Driving Miss Daisy,English,Drama,139,55,16178,Color,USA,1,PG,7500000,1989,99,77550,7.4,1.85,3500,3300,507,244,11000
+Soul Food,English,Comedy|Drama,31,32,4899,Color,USA,6,R,7500000,1997,115,5600,6.9,1.85,1000,564,904,96,1100
+Rumble in the Bronx,Cantonese,Action|Comedy|Thriller,83,63,7256,Color,Hong Kong,1,R,7500000,1995,104,31784,6.7,2.35,188,1200,159,7,6700
+Thank You for Smoking,English,Comedy|Drama,327,240,30304,Color,USA,6,R,6500000,2005,92,196860,7.6,2.35,2500,8800,1500,659,24000
+Hostel: Part II,English,Horror,386,251,4906,Color,USA,0,R,10000000,2007,94,73228,5.4,2.35,715,1900,668,1200,1100
+Extract,English,Comedy|Crime|Romance,108,191,58086,Color,USA,6,R,8000000,2009,92,39045,6.2,1.85,15000,2200,6800,408,24000
+An Education,English,Drama,242,278,16419,Color,UK,0,PG-13,4500000,2009,100,115937,7.3,2.35,4400,13000,3100,96,4900
+The Hotel New Hampshire,English,Comedy|Drama,61,9,15456,Color,UK,0,R,7500000,1984,109,6815,6,1.85,3300,359,2000,68,6500
+Shopgirl,English,Drama|Romance,269,124,16523,Color,USA,3,R,,2005,106,21676,6.4,2.35,3800,1000,2400,12,6600
+Narc,English,Crime|Drama|Mystery|Thriller,214,128,4303,Color,USA,1,R,7500000,2002,105,34956,7.2,1.85,678,1000,493,251,2800
+Men with Brooms,English,Comedy|Drama|Romance|Sport,83,9,1882,Color,Canada,3,R,7500000,2002,102,3779,6,1.85,326,1400,285,326,628
+Witless Protection,English,Comedy|Crime,20,35,4298,Color,USA,2,PG-13,7500000,2008,97,5554,3.2,1.85,773,151,742,18,854
+The Work and the Glory,English,Drama|Romance,33,6,2800,Color,USA,1,PG,7500000,2004,118,870,6.9,,390,50,278,0,1500
+Albert Nobbs,English,Drama|Romance,98,221,7731,Color,UK,3,R,8000000,2011,113,20493,6.7,2.35,1700,6000,1500,128,3100
+The Neon Demon,English,Horror|Thriller,263,445,34075,Color,Denmark,2,R,7000000,2016,118,50739,6.2,2.35,3900,14000,3900,1500,19000
+Alias Betty,French,Comedy|Crime|Drama|Romance|Thriller,26,38,268,Color,France,0,,50000000,2001,103,1465,6.9,,60,27,59,28,73
+Masked and Anonymous,English,Comedy|Drama|Music,97,51,39592,Color,UK,0,PG-13,,2003,112,4055,5.5,1.85,5300,744,3600,117,12000
+The Hole,English,Drama|Mystery|Thriller,251,44,11828,Color,UK,3,R,4158370,2001,102,40202,6.2,2.35,1400,1900,1300,7,7700
+Black November,English,Action|Crime|Drama|Thriller,3,6,1926,Color,Nigeria,3,,7500000,2012,95,428,5.6,,266,391,74,23,1500
+Code 46,English,Drama|Romance|Sci-Fi|Thriller,151,133,7362,Color,UK,0,R,7500000,2003,93,18575,6.2,2.35,662,1100,402,194,5900
+Outside Bet,English,Comedy,3,4,11484,Color,UK,3,,7500000,2012,101,252,4.8,,4300,226,713,21,5000
+Pound of Flesh,English,Action|Thriller,32,39,10593,Color,Canada,0,R,7500000,2015,104,4638,5.1,1.85,298,1900,288,241,9600
+The Bye Bye Man,English,Horror|Thriller,95,140,6577,Color,USA,0,PG-13,7400000,2017,97,7438,4.3,,1600,2800,1000,3,1700
+Ta Ra Rum Pum,Hindi,Family|Romance|Sport,37,16,1891,Color,USA,4,,6000000,2007,153,3110,5.5,,531,114,60,5,1200
+Crash,English,Crime|Drama|Thriller,1629,286,24951,Color,Germany,0,R,6500000,2004,112,374690,7.8,2.35,6000,19000,3000,650,8700
+Persepolis,French,Animation|Biography|Drama|War,161,242,6578,Color,France,0,PG-13,7300000,2007,96,74382,8.1,1.85,991,15000,550,9,4700
+Harry Brown,English,Action|Crime|Drama|Thriller,226,223,13646,Color,UK,1,R,7300000,2009,103,76493,7.2,2.35,1600,9600,1300,12,5700
+Diamonds Are Forever,English,Action|Adventure|Thriller,280,121,10003,Color,UK,2,GP,7200000,1971,120,78044,6.7,2.35,1500,2200,264,90,7300
+The Wave,German,Drama|Thriller,99,93,679,Color,Germany,0,,5000000,2008,107,85892,7.6,2.35,154,26000,96,26,313
+The Omega Code,English,Action|Adventure|Fantasy|Sci-Fi|Thriller,205,40,5467,Color,USA,0,PG-13,7500000,1999,100,4740,3.5,1.37,1500,134,496,0,1500
+Spider-Man 3,English,Action|Adventure,1909,393,64014,Color,USA,0,PG-13,258000000,2007,139,406723,6.2,2.35,11000,3800,6100,1300,24000
+Juno,English,Comedy|Drama,887,389,47963,Color,USA,0,PG-13,7500000,2007,96,432766,7.5,1.85,7100,10000,4800,659,24000
+The Godfather,English,Crime|Drama,2400,218,39300,Color,USA,1,R,6000000,1972,175,1238791,9.2,1.85,10000,47000,5300,3700,15000
+Magic Mike,English,Comedy|Drama,288,326,55568,Color,USA,1,R,7000000,2012,110,113782,6.1,2.35,15000,54000,12000,1500,17000
+Jumping the Broom,English,Comedy|Drama,60,49,13080,Color,USA,8,PG-13,6600000,2011,112,8298,5.7,1.85,2300,2200,1400,71,3200
+The Piano,English,Drama|Music|Romance,246,83,9553,Color,New Zealand,1,R,7000000,1993,121,66834,7.6,1.85,1900,5900,1900,325,3400
+Flashdance,English,Drama|Music|Romance,130,49,2522,Color,USA,0,R,4000000,1983,95,37534,6.1,1.85,235,4500,183,237,1700
+My Dog Skip,English,Comedy|Drama|Family|Sport,149,78,12902,Color,USA,0,PG,6000000,2000,95,17156,7,1.37,2500,1300,1200,29,7200
+Live and Let Die,English,Action|Adventure|Thriller,260,139,8228,Color,UK,3,PG,7000000,1973,121,78951,6.8,1.66,1100,3200,628,90,4900
+Darkness Falls,English,Horror|Mystery|Thriller,370,140,7121,Color,USA,0,PG-13,11000000,2003,86,26877,5,2.35,1000,2100,974,476,4900
+"Definitely, Maybe",English,Comedy|Drama|Romance,170,158,16300,Color,UK,5,PG-13,,2008,112,133213,7.2,2.35,117,7500,64,20,16000
+"Good Night, and Good Luck.",English,Biography|Drama|History,530,353,36804, Black and White,USA,0,PG,7500000,2005,93,86151,7.5,1.85,9500,5300,1500,9500,21000
+The Great Gatsby,English,Drama|Romance,780,494,38279,Color,Australia,4,PG-13,105000000,2013,143,386556,7.3,2.35,2800,115000,2100,1000,29000
+Capote,English,Biography|Crime|Drama|History,423,273,24639,Color,USA,1,R,7000000,2005,114,106192,7.4,2.35,1300,6300,1200,155,22000
+Logan's Run,English,Action|Sci-Fi,252,126,3163,Color,USA,1,PG,9000000,1976,119,42237,6.8,2.35,713,8200,468,26,1100
+The Descent,English,Adventure|Horror|Thriller,1111,346,1490,Color,UK,0,R,3500000,2005,99,164189,7.2,2.35,240,11000,162,206,553
+Desperado,English,Action|Thriller,203,90,49492,Color,USA,0,R,7000000,1995,104,145159,7.2,1.85,12000,4700,8900,2600,16000
+Fargo,English,Crime|Drama|Thriller,193,57,65735,Color,USA,2,TV-MA,,,53,205516,9,1.78,6400,65000,5900,,6500
+The Man with the Golden Gun,English,Action|Adventure|Thriller,263,120,22837,Color,UK,3,PG,13000000,1974,125,77897,6.8,1.66,4900,2400,410,90,16000
+Action Jackson,English,Action|Comedy|Crime|Thriller,68,33,7819,Color,USA,2,R,7000000,1988,96,7931,5.2,1.85,1000,1000,903,24,2300
+Michael Jordan to the Max,English,Documentary|Sport,13,13,16076,Color,USA,0,,,2000,46,1784,7.5,1.44,2600,408,391,0,13000
+The Devil's Rejects,English,Crime|Horror,687,266,22443,Color,USA,0,R,7000000,2005,107,79633,6.9,1.85,2900,6400,1900,1300,8900
+Devil's Due,English,Horror|Mystery,121,139,2572,Color,USA,0,R,7000000,2014,89,14552,4.1,1.85,482,6300,276,14,976
+Kingdom Come,English,Comedy|Drama|Family,35,35,8968,Color,USA,1,PG,7000000,2001,94,1834,5.7,2.35,1300,212,1100,2,2300
+Dope,English,Comedy|Crime|Drama,101,188,4477,Color,USA,3,R,7000000,2015,103,66539,7.3,2.35,1300,24000,636,49,1700
+Flirting with Disaster,English,Comedy,105,49,20660,Color,USA,1,R,7000000,1996,92,15607,6.8,1.85,3500,925,3000,755,5800
+Beyond the Lights,English,Drama|Music|Romance,39,72,6263,Color,USA,1,PG-13,7000000,2014,116,12409,6.9,,1200,3600,924,113,1700
+House of 1000 Corpses,English,Horror,930,210,7439, Black and White,USA,0,R,7000000,2003,89,63652,6,1.85,2300,5500,1000,1300,2600
+Buffy the Vampire Slayer,English,Action|Drama|Fantasy|Romance,676,91,21974,Color,USA,0,TV-14,2300000,,44,107328,8.2,1.33,4200,6500,4000,,4500
+Skyfall,English,Action|Adventure|Thriller,1509,759,38631,Color,UK,1,PG-13,200000000,2012,143,547905,7.8,2.35,8500,80000,8400,2200,8700
+In Too Deep,English,Crime|Drama|Thriller,29,28,18047,Color,USA,1,R,7000000,1999,95,4826,6.1,2.35,4800,392,1800,48,6400
+Alien Zone,English,Horror,22,9,825,Color,USA,0,PG,350000,1978,90,459,4.1,,40,51,26,0,705
+A Serious Man,English,Comedy|Drama,334,344,3067,Color,USA,1,R,7000000,2009,106,108236,7,1.85,849,10000,115,1000,1900
+A Single Man,English,Drama|Romance,254,288,39149,Color,USA,1,R,7000000,2009,99,90557,7.6,2.35,9400,17000,7600,259,14000
+The Last Temptation of Christ,English,Drama,314,115,7795,Color,Canada,0,R,7000000,1988,164,42027,7.6,1.85,1900,4200,893,17000,3900
+Warlock,English,Action|Fantasy|Horror|Thriller,81,36,2113,Color,USA,1,R,7000000,1989,103,12199,6.2,1.85,606,1500,325,50,716
+Get Low,English,Drama|Mystery,98,159,24315,Color,USA,1,PG-13,7500000,2009,103,19769,7.1,2.35,3100,8800,2500,15,13000
+Outside Providence,English,Comedy|Drama|Romance,100,72,9150,Color,USA,3,R,7000000,1999,96,7894,6.4,1.85,2200,403,1500,30,2400
+Cyrus,English,Comedy|Drama|Romance,126,222,12100,Color,USA,2,R,7000000,2010,91,30995,6.3,1.85,2900,3900,2900,159,3900
+Bride & Prejudice,English,Comedy|Drama|Musical|Romance,283,121,9440,Color,UK,1,PG-13,7000000,2004,111,17995,6.2,2.35,2400,3000,1300,104,2600
+Rabbit-Proof Fence,Aboriginal,Adventure|Biography|Drama|History,250,76,6618,Color,Australia,1,PG,6000000,2002,94,24237,7.5,2.35,1500,4700,116,180,4800
+Who's Your Caddy,English,Comedy|Sport,46,25,11603,Color,USA,0,PG-13,7000000,2007,93,13963,2.1,1.85,731,450,595,73,8400
+The Other Side of Heaven,English,Adventure|Biography|Drama,85,26,12416,Color,USA,2,PG,7000000,2001,113,3358,6.5,1.85,1300,684,43,7,11000
+Veer-Zaara,Hindi,Drama|Family|Musical|Romance,123,29,13423,Color,India,0,,7000000,2004,192,38810,7.9,2.4,2100,2000,1200,148,8100
+Nikita,English,Action|Crime|Drama|Thriller,87,25,13453,Color,USA,1,,,,60,43714,7.7,16,3100,6900,2200,,3600
+Dark Angel,English,Action|Drama|Mystery|Sci-Fi,161,11,21695,Color,USA,1,TV-14,,,60,26517,7.4,1.33,5400,2000,2500,,10000
+Split Second,English,Action|Crime|Horror|Sci-Fi|Thriller,76,39,9431,Color,UK,0,R,7000000,1992,90,8938,6.2,1.85,2300,1600,1400,8,5200
+A Dog of Flanders,English,Drama|Family,21,26,3975,Color,USA,0,PG,7000000,1999,100,804,6.3,1.85,782,158,485,2,1900
+Redbelt,English,Drama|Sport,121,160,10806,Color,USA,0,R,7000000,2008,99,19053,6.8,2.35,2400,1500,1300,347,3600
+The Mighty Macs,English,Drama|Sport,13,33,9266,Color,USA,2,G,7000000,2009,99,1164,6.5,2.35,2800,801,1000,2,4500
+Somewhere,English,Comedy|Drama,199,298,9389,Color,USA,0,R,7000000,2010,97,37234,6.3,1.85,3500,7200,1300,1400,3900
+We Need to Talk About Kevin,English,Drama|Mystery|Thriller,319,393,10369,Color,UK,0,R,7000000,2011,112,105148,7.5,2.35,3100,40000,2900,164,3800
+Auto Focus,English,Biography|Crime|Drama,153,97,9782,Color,USA,3,R,7000000,2002,105,11645,6.6,1.85,1600,365,1500,282,3900
+I Hope They Serve Beer in Hell,English,Comedy,73,51,5521,Color,USA,1,R,,2009,105,7572,5.3,2.35,1300,2300,1200,10,1400
+Factory Girl,English,Biography|Drama,106,117,22842,Color,USA,0,R,7000000,2006,99,18954,6.4,1.85,4200,3100,4100,101,6500
+The Christmas Candle,English,Drama|Family,36,10,9720,Color,UK,0,PG,,2013,100,1063,6,,2200,1200,2000,0,3300
+Mother and Child,English,Drama|Romance,65,159,20472,Color,USA,6,R,4825000,2009,125,10153,7.2,2.35,6000,3200,2500,128,7500
+Losin' It,English,Comedy|Drama,16,7,14726,Color,Canada,0,R,7000000,1983,100,3290,4.9,,2300,169,699,277,11000
+March or Die,English,Adventure|Drama|Romance|War,27,6,9113,Color,UK,0,PG,9000000,1977,107,2340,6.3,1.85,2700,123,1300,32,2800
+Les visiteurs,French,Comedy|Fantasy,79,16,4113,Color,France,1,R,50000000,1993,107,26131,7,2.35,107,1600,53,8,3900
+Freeheld,English,Biography|Drama|Romance,29,141,31746,Color,USA,0,PG-13,7000000,2015,103,8181,6.5,1.85,7100,4500,7000,6,9400
+Dom Hemingway,English,Comedy|Crime|Drama,68,154,7265,Color,UK,2,R,,2013,93,22494,6.2,2.35,606,4400,530,46,6100
+The Extra Man,English,Comedy,30,101,10864,Color,France,4,R,7000000,2010,108,4254,5.9,2.35,2800,912,2000,30,2900
+Hesher,English,Comedy|Drama,100,133,46925,Color,USA,0,R,7000000,2010,106,45589,7.1,2.35,20000,20000,1900,56,23000
+Chairman of the Board,English,Comedy,63,12,5470,Color,USA,1,PG-13,,1998,95,5300,2.3,1.85,853,777,629,42,1000
+Gerry,English,Adventure|Drama|Mystery,295,105,15700,Color,USA,0,R,3500000,2002,103,15764,6.2,2.35,1700,1300,,835,14000
+Wah-Wah,English,Drama,50,47,11588,Color,UK,3,R,7000000,2005,97,2698,6.9,2.35,1300,311,952,606,7600
+The Heart of Me,English,Drama|Romance,25,39,13769,Color,UK,3,R,7000000,2002,96,2038,6.6,1.85,4800,97,774,4,7700
+Hard to Be a God,Russian,Drama|Sci-Fi,32,124,9, Black and White,Russia,0,Not Rated,7000000,2013,177,3093,6.7,1.66,4,1200,0,28,5
+Snow Queen,Russian,Adventure|Animation|Family,9,11,223,Color,Russia,1,PG,7000000,2012,80,1350,5.4,,66,487,27,0,97
+The Boondock Saints,English,Action|Crime|Thriller,886,101,21790, Black and White,USA,3,R,7000000,1999,108,204495,7.9,2.35,3900,18000,2100,80,12000
+Ca$h,English,Comedy|Crime|Thriller,39,26,34206,Color,USA,2,R,7000000,2010,108,7956,6,1.85,6400,711,891,0,26000
+Z Storm,Cantonese,Action|Crime,2,13,200,Color,Hong Kong,0,,7000000,2014,92,445,5.3,2.35,82,56,4,4,92
+Twixt,English,Comedy|Fantasy|Horror|Mystery,72,114,12080,Color,USA,0,R,7000000,2011,88,8984,4.8,1.85,3600,2700,1200,3700,3900
+Criminal Activities,English,Crime|Drama|Thriller,41,52,29541,Color,USA,3,,7000000,2015,94,6525,5.8,2.35,4600,1900,3400,2300,15000
+Oddball and the Penguins,English,Adventure|Family,12,23,5359,Color,Australia,1,,,2015,95,1620,6.4,2.35,439,1500,79,0,4700
+High School Musical 2,English,Comedy|Drama|Family|Music|Musical|Romance,165,42,15531,Color,USA,6,TV-G,7000000,2007,111,42716,4.8,1.78,3300,604,1800,198,7400
+Adventures in Appletown,English,Adventure|Comedy|Crime|Mystery,3,2,4867,Color,USA,2,PG,4000000,2008,93,249,6.8,1.85,1200,51,753,54,2100
+Stargate: The Ark of Truth,English,Action|Adventure|Drama|Fantasy|Sci-Fi,43,17,12523,Color,USA,5,,,2008,97,16931,7.4,1.78,1900,402,1200,49,3800
+Alpha and Omega 4: The Legend of the Saw Toothed Cave,,Action|Adventure|Animation|Comedy|Drama|Family|Fantasy|Thriller,6,2,253,,USA,1,,7000000,2014,45,224,5.8,,37,43,29,24,123
+Pale Rider,English,Western,144,40,21790,Color,USA,1,R,6900000,1985,115,42038,7.3,2.35,3500,2500,473,17000,17000
+House at the End of the Street,English,Drama|Horror|Thriller,164,224,40962,Color,Canada,1,PG-13,6900000,2012,101,61174,5.6,2.35,3400,10000,1800,14,34000
+Two Lovers and a Bear,English,Drama|Romance,3,22,4276,Color,Canada,0,R,8700000,2016,96,541,6.2,2.35,1400,309,160,16,2500
+Dazed and Confused,English,Comedy,419,155,18866,Color,USA,1,R,6900000,1993,102,130491,7.7,1.85,1100,11000,869,3900,14000
+Aimee & Jaguar,German,Biography|Drama|Romance|War,51,63,349,Color,Germany,1,,15000000,1999,125,5338,7.3,1.85,66,705,39,5,187
+Incendies,French,Drama|Mystery|War,164,229,347,Color,Canada,0,R,6800000,2010,131,93085,8.2,1.85,65,39000,60,1000,132
+The Chumscrubber,English,Comedy|Drama,128,73,25708,Color,USA,1,R,6800000,2005,108,16622,7,2.35,6000,1000,3200,3,8700
+Bran Nue Dae,English,Comedy|Drama|Musical,32,32,3137,Color,Australia,7,PG-13,6500000,2009,88,1461,6.3,2.35,48,516,47,3,2900
+"Remember Me, My Love",Italian,Comedy|Drama|Romance,21,36,6641,Color,Italy,1,R,5000000,2003,125,3643,6.5,2.35,68,286,28,128,6500
+Shade,English,Crime|Thriller,68,25,4313,Color,USA,8,R,6800000,2003,101,11047,6.4,2.35,1300,422,245,0,2500
+Elite Squad,Portuguese,Action|Crime|Drama|Thriller,109,144,765,Color,Brazil,1,R,4000000,2007,115,85537,8.1,1.85,41,11000,15,296,678
+Perrier's Bounty,English,Action|Comedy|Crime|Drama|Romance|Thriller,31,53,16685,Color,Ireland,8,R,,2009,88,5397,6.4,2.35,3200,685,1300,11,8200
+Annabelle,English,Horror|Mystery|Thriller,308,276,3082,Color,USA,0,R,6500000,2014,99,91262,5.4,2.35,542,45000,310,41,1600
+Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,,Comedy|Family,,,304,,,7,,,,30,,,,0,0,0,,304
+Boyz n the Hood,English,Crime|Drama,192,70,5449,Color,USA,3,R,6500000,1991,112,99863,7.8,1.85,1700,6100,1400,321,2200
+The Adventures of Huck Finn,English,Adventure|Comedy|Drama|Family,54,15,15510,Color,USA,0,PG,6500000,1993,108,6587,6.2,1.85,3500,398,1200,211,5800
+Dressed to Kill,English,Mystery|Thriller,206,126,8248,Color,USA,0,R,6500000,1980,105,25968,7.1,2.35,820,1900,571,1500,5700
+La Bamba,English,Biography|Drama|Music,64,19,5979,Color,USA,1,PG-13,6500000,1987,108,22342,6.8,1.85,1900,3100,1200,7,1900
+The Andromeda Strain,English,Sci-Fi|Thriller,178,60,459,Color,USA,0,G,6500000,1971,131,27334,7.2,2.35,121,3000,64,389,132
+Friends with Money,English,Comedy|Drama|Romance,166,111,21470,Color,USA,2,R,6500000,2006,88,20525,5.9,2.35,4500,541,2500,133,6600
+The Four Seasons,English,Comedy|Drama,34,6,4296,Color,USA,6,PG,,1981,107,3305,7.2,1.85,1300,426,878,1600,1600
+Nowhere in Africa,English,Biography|Drama,85,74,113,Color,Germany,1,R,7000000,2001,141,11048,7.7,2.35,39,830,11,11,58
+Go,English,Comedy|Crime,419,138,16501,Color,USA,2,R,20000000,1999,102,60901,7.3,2.35,6000,3600,2000,222,6000
+Layer Cake,English,Crime|Drama|Thriller,269,149,40443,Color,UK,1,R,4000000,2004,105,140062,7.4,2.35,8500,7700,1300,910,27000
+Skam,Norwegian,Drama|Romance,24,,63,Color,Norway,0,,,,30,13233,8.9,16,17,1000,3,,41
+Bats,English,Horror|Sci-Fi|Thriller,160,99,4697,Color,USA,0,PG-13,5250000,1999,91,8543,3.7,2.35,1200,376,858,38,1900
+The Work and the Glory II: American Zion,English,Drama|Western,21,4,3483,Color,USA,3,PG-13,6500000,2005,100,598,6.6,2.35,1000,19,390,0,1500
+The East,English,Adventure|Drama|Thriller,121,201,28161,Color,UK,4,PG-13,6500000,2013,116,43856,6.8,2.35,7100,12000,2500,165,11000
+A Home at the End of the World,English,Drama|Romance,135,81,27630,Color,USA,2,R,6500000,2004,97,12321,6.8,2.35,6400,1000,1000,15,18000
+Aberdeen,English,Drama,35,29,9667,Color,UK,1,,6500000,2000,106,2709,7.3,1.85,3300,263,865,25,5500
+The Messenger,English,Drama|Romance|War,93,216,26427,Color,USA,0,R,6500000,2009,113,30580,7.2,2.35,5100,3400,3900,142,12000
+Tracker,English,Action|Adventure|Drama|Western,18,11,1931,Color,New Zealand,0,R,6500000,2010,102,3005,6.5,2.35,434,846,393,7,1000
+Good Bye Lenin!,German,Drama|Romance,230,154,2804, Black and White,Germany,2,R,4800000,2003,121,119369,7.7,1.85,65,12000,51,30,2600
+The Damned United,English,Biography|Drama|Sport,79,145,6480,Color,UK,2,R,10000000,2009,98,34228,7.6,1.85,1300,5800,1300,1700,2600
+Control,English,Biography|Drama|Music,143,183,4964, Black and White,UK,1,R,4500000,2007,122,53551,7.7,2.35,1100,13000,846,219,1200
+Die F,,Documentary|History,,,0,,,0,,,,,,,,,0,,,
+The Terminator,English,Action|Sci-Fi,702,206,28114,Color,UK,1,R,6400000,1984,107,641952,8,1.85,7900,15000,2000,7000,13000
+Return of the Living Dead III,English,Horror,131,53,1439,Color,USA,1,R,2000000,1993,97,10880,5.9,1.85,203,883,194,97,809
+Mallrats,English,Comedy|Romance,437,90,23801,Color,USA,9,R,6000000,1995,94,102390,7.2,1.85,3700,3100,2900,2300,6800
+Gomorrah,Italian,Crime|Drama|Thriller,37,15,47,Color,Italy,5,TV-MA,,,55,13350,8.7,1.85,11,8200,7,,20
+Platoon,English,Drama|War,519,123,52868,Color,UK,0,R,6000000,1986,120,310459,8.1,1.85,3900,9600,2800,2200,40000
+Grease,English,Musical|Romance,362,127,9986,Color,USA,2,PG-13,6000000,1978,110,181012,7.2,2.35,1000,15000,1000,137,4600
+Fahrenheit 9/11,English,Documentary|Drama|War,1419,289,8327,Color,USA,0,R,6000000,2004,122,116514,7.5,1.85,509,3700,353,935,6800
+Butch Cassidy and the Sundance Kid,English,Biography|Crime|Drama|Western,325,98,13957,Color,USA,1,PG,6000000,1969,110,162696,8.1,2.35,3600,6900,1600,138,6400
+Mary Poppins,English,Comedy|Family|Fantasy|Musical,262,145,7392,Color,USA,4,G,6000000,1964,139,115886,7.8,1.66,2400,8300,444,58,2700
+Ordinary People,English,Drama,289,61,14036,Color,USA,2,R,6000000,1980,124,37222,7.8,1.85,3400,3500,2000,6400,5800
+West Side Story,English,Crime|Drama|Musical|Romance|Thriller,326,123,4129,Color,USA,0,Unrated,6000000,1961,152,76729,7.6,2.2,878,6100,286,35,2200
+Around the World in 80 Days,English,Action|Adventure|Comedy|Family,191,188,9951,Color,USA,0,PG,110000000,2004,120,72264,5.8,2.35,1000,1300,1000,155,6700
+Caddyshack,English,Comedy|Sport,257,73,16783,Color,USA,4,R,6000000,1980,98,86364,7.3,1.85,1600,5500,625,11000,13000
+The Brothers,English,Comedy|Drama,43,51,15945,Color,USA,3,R,6000000,2001,106,3405,6.3,1.85,3100,497,2200,10,5100
+The Wrestler,English,Drama|Sport,554,392,10194,Color,USA,0,R,6000000,2008,109,259693,7.9,2.35,2900,10000,2300,4500,3300
+Do the Right Thing,English,Comedy|Drama,424,104,14429,Color,USA,2,R,6500000,1989,120,63814,7.9,1.85,2700,5800,1700,1600,4100
+Escape from New York,English,Action|Sci-Fi,296,209,11528,Color,UK,0,R,6000000,1981,99,97863,7.2,2.35,2600,10000,1600,2400,3600
+The Wood,English,Comedy|Drama|Romance,50,18,4357,Color,USA,0,R,6000000,1999,106,6923,6.9,1.85,878,1000,416,49,1500
+A Nightmare on Elm Street 5: The Dream Child,English,Fantasy|Horror|Romance|Thriller,233,90,2711, Black and White,USA,0,R,6000000,1989,89,31681,5.1,1.85,334,1100,106,82,2100
+Van Wilder: Party Liaison,English,Comedy|Romance,259,95,24200,Color,Germany,2,R,6000000,2002,92,92113,6.4,1.85,1800,1700,1800,12,16000
+The Usual Suspects,English,Crime|Drama|Mystery|Thriller,1215,164,33804,Color,USA,5,R,6000000,1995,106,794631,8.6,2.35,5200,30000,3700,2300,18000
+Duel in the Sun,English,Drama|Romance|Western,91,33,4461,Color,USA,2,Unrated,8000000,1946,144,6607,6.9,1.37,481,419,467,58,2300
+The Last King of Scotland,English,Biography|Drama|History|Thriller,358,252,18790,Color,UK,1,R,6000000,2006,123,152450,7.7,2.35,2800,6700,2500,163,9700
+A Mighty Wind,English,Comedy|Music,273,97,2990,Color,USA,0,PG-13,,2003,91,23025,7.3,1.85,691,1600,411,411,1200
+Best in Show,English,Comedy,344,118,7226,Color,USA,9,PG-13,6000000,2000,90,47513,7.5,1.85,1200,6700,1000,411,1200
+Daddy Day Camp,English,Comedy|Family,34,51,4080,Color,USA,2,PG,6000000,2007,89,12797,2.9,1.85,604,258,545,1200,2200
+School Daze,English,Comedy|Drama|Musical,38,23,9373,Color,USA,4,R,6500000,1988,121,4931,5.8,1.85,2600,653,1600,1600,2700
+Mystic Pizza,English,Comedy|Drama|Romance,74,32,15500,Color,USA,4,R,6000000,1988,104,19626,6.2,1.85,4900,2400,1000,85,8100
+Mr. Nice Guy,English,Action|Comedy|Crime,71,65,7661,Color,Hong Kong,1,PG-13,,1997,97,20913,6.2,2.35,489,386,320,489,6700
+Sliding Doors,English,Comedy|Drama|Fantasy|Romance,281,88,7039,Color,UK,1,PG-13,9000000,1998,99,54631,6.8,1.85,1300,4900,717,32,4200
+War & Peace,English,Drama|History|Romance|War,48,18,12825,Color,UK,1,TV-14,,,379,12678,8.2,16,2500,12000,1500,,2800
+Halloween 5,English,Horror|Thriller,295,140,3366,Color,USA,1,R,3000000,1989,96,24633,5.2,1.85,832,1000,314,3,1900
+Tales from the Hood,English,Crime|Horror|Thriller,56,30,3786,Color,USA,0,R,6000000,1995,98,4931,6.2,1.85,696,1100,530,38,1000
+The Words,English,Drama|Mystery|Romance|Thriller,139,214,64504,Color,USA,0,PG-13,6000000,2012,102,63373,7.1,1.85,14000,22000,10000,55,24000
+Dolphins and Whales 3D: Tribes of the Ocean,English,Adventure|Documentary|Short,5,9,1965,Color,UK,0,,6000000,2008,42,187,6.5,1.78,865,36,,0,1100
+200 Cigarettes,English,Comedy|Drama|Romance,184,68,15050,Color,USA,8,R,6000000,1999,101,13357,5.9,1.85,2700,1200,1700,111,6800
+Pollock,English,Biography|Drama,148,114,5607,Color,USA,0,R,6000000,2000,122,23892,7,1.85,1100,2600,745,2900,2900
+City Island,English,Comedy|Drama|Romance,103,146,12335,Color,USA,6,PG-13,6000000,2009,104,28000,7.4,1.85,2300,5000,2300,20,3100
+Casa de mi Padre,Spanish,Comedy|Western,71,133,21449,Color,USA,1,R,6000000,2012,84,17832,5.5,2.35,3000,9100,2300,5,8000
+Bernie,English,Comedy|Crime|Drama,138,230,18033,Color,USA,1,PG-13,5000000,2011,99,48569,6.8,1.85,3100,15000,1500,3900,12000
+The Virgin Suicides,English,Drama|Romance,523,153,16502,Color,USA,0,R,6000000,1999,97,122746,7.2,1.85,3600,5800,2600,1400,4100
+The Guard,English,Comedy|Thriller,133,259,6490,Color,Ireland,0,R,6000000,2011,96,68158,7.3,2.35,1700,17000,1200,54,3000
+La science des r,English,Comedy|Drama|Fantasy|Romance,,,4495,Color,France,0,,,2007,70,318,7.5,1.85,1200,21,134,1000,3000
+College,English,Comedy,78,41,5516,Color,USA,0,R,6500000,2008,94,11265,4.6,1.85,1100,449,1000,0,1100
+Little Voice,English,Comedy|Drama|Music|Romance,160,63,14239,Color,UK,0,R,,1998,97,14308,7,1.85,5700,964,1000,39,6400
+Miss March,English,Comedy|Romance,73,74,7793,Color,USA,2,R,6000000,2009,90,18825,5,1.85,1700,987,408,138,4200
+Simply Irresistible,English,Comedy|Drama|Fantasy|Romance,191,36,10750,Color,Germany,1,PG-13,6000000,1999,96,11831,5.3,2.35,2100,945,1500,3,4000
+Wish I Was Here,English,Comedy|Drama,96,149,37003,Color,USA,3,R,6000000,2014,106,31635,6.7,2.35,4000,7600,3900,1300,17000
+Goddess of Love,English,Drama|Horror|Mystery|Thriller,7,18,568,Color,USA,0,,,2015,93,781,5.3,2.35,90,104,35,10,403
+Only the Strong,English,Action|Drama,50,19,3487,Color,USA,1,PG-13,6000000,1993,99,4443,6.7,1.85,1200,1500,96,29,1900
+Hedwig and the Angry Inch,English,Comedy|Drama|Music|Musical,233,111,2848,Color,USA,0,R,6000000,2001,95,27354,7.8,1.85,267,6000,267,267,1800
+Veronica Mars,English,Crime|Drama|Mystery,316,43,9350,Color,USA,1,TV-14,,,44,57117,8.4,1.78,1700,2400,941,,4200
+Shattered Glass,English,Drama|History,191,130,16918,Color,USA,0,PG-13,6000000,2003,94,29800,7.2,2.35,3100,1900,2500,55,4100
+Novocaine,English,Comedy|Crime|Drama|Thriller,105,84,18874,Color,USA,3,R,6000000,2001,95,9820,5.8,1.85,6600,302,1500,8,7700
+Snow Flower and the Secret Fan,English,Drama|History,22,54,2465,,China,0,PG-13,6000000,2011,104,3148,6.1,2.35,601,3400,454,60,996
+The Wackness,English,Comedy|Drama|Romance,75,144,12798,Color,UK,2,R,6000000,2008,99,27850,7,2.35,3500,3500,1600,131,3600
+The Business of Strangers,English,Drama|Thriller,78,60,4772,Color,USA,2,R,,2001,84,3457,6.4,1.85,1000,38,260,5,3200
+Beastmaster 2: Through the Portal of Time,English,Action|Adventure|Fantasy|Sci-Fi,16,17,5895,Color,USA,2,PG-13,6000000,1991,107,2419,3.8,1.85,1200,158,745,5,2600
+The Wild Bunch,English,Action|Adventure|Western,292,150,5283,Color,USA,0,R,6244087,1969,145,65877,8,2.35,810,3500,301,562,2600
+The 5th Quarter,English,Biography|Drama|Sport,30,14,5128,Color,USA,2,PG,6000000,2010,90,1284,5.7,1.85,1100,1100,787,11,1900
+Morvern Callar,English,Drama,115,74,880,Color,UK,0,R,,2002,97,7166,6.7,1.85,104,626,53,164,662
+The Great Train Robbery,English,Adventure|Crime|Drama|Thriller,52,21,11015, Black and White,UK,2,PG,6000000,1979,110,12314,7,1.85,3400,734,193,773,7300
+The Flower of Evil,French,Drama,35,60,307,Color,France,5,R,,2003,104,2642,6.6,1.66,72,53,27,323,190
+Come Early Morning,English,Drama|Romance,29,35,8897,Color,USA,0,R,6000000,2006,97,2394,6.2,1.85,1800,226,1700,790,2400
+The Greatest,English,Drama|Romance,52,62,21520,Color,USA,2,R,6000000,2009,99,7765,6.7,2.35,4900,1500,3400,19,7300
+Deadfall,English,Crime|Drama|Thriller,92,162,37228,Color,USA,1,R,12000000,2012,95,33879,6.3,2.35,10000,4900,4400,26,16000
+Paperback Romance,English,Comedy|Romance,3,9,876,Color,Australia,1,R,,1994,94,353,6.2,1.85,88,14,72,20,584
+"Surfer, Dude",English,Comedy,37,24,20832,Color,USA,0,R,6000000,2008,85,7598,4.7,1.85,5100,855,869,0,12000
+Julia,English,Drama,48,36,17563,Color,USA,1,PG,7840000,1977,117,6990,7.4,1.85,1000,881,944,206,13000
+Lake of Fire,English,Documentary,29,46,114, Black and White,USA,0,Unrated,,2006,152,2234,8.3,,2,584,0,196,112
+Song One,English,Drama|Music,21,45,14105,Color,USA,1,PG-13,6000000,2014,86,7532,5.8,,1300,1800,484,4,11000
+Don McKay,English,Drama|Mystery|Thriller,17,36,12557,Color,USA,1,R,,2009,87,2092,5.9,1.85,2700,280,2300,2,3200
+A Shine of Rainbows,English,Drama|Family,19,37,4805,Color,Canada,2,PG,6000000,2009,101,1854,7.2,2.35,963,1100,787,22,2700
+11:14,English,Comedy|Crime|Drama,133,67,19862,Color,USA,3,R,6000000,2003,85,39425,7.2,1.85,3500,2700,2900,9,4700
+Men of War,English,Action|Drama|Thriller,39,20,9326,Color,USA,1,R,8600000,1994,102,3153,5.8,2.35,1300,186,1200,18,3500
+Freaky Deaky,English,Comedy|Crime|Thriller,13,12,10813,,USA,0,R,6000000,2012,90,6844,6.5,,2100,3100,2000,141,2100
+The Hit List,English,Action|Thriller,40,26,5902,Color,USA,1,R,6000000,2011,90,10537,5.4,1.85,869,1800,850,58,2200
+Videodrome,English,Horror|Sci-Fi|Thriller,242,183,2184,Color,Canada,1,R,5952000,1983,87,64880,7.3,1.85,392,6300,22,2300,1700
+L'auberge espagnole,French,Comedy|Drama|Romance,150,88,6896,Color,France,0,R,5300000,2002,122,35528,7.3,1.85,1600,5600,821,82,3400
+Emma,English,Comedy|Drama|Romance,145,49,13702,Color,UK,1,PG,6000000,1996,120,29231,6.8,1.85,3300,1500,3300,44,4200
+Winter in Wartime,Dutch,Drama|History|War,40,113,8325,Color,Netherlands,1,R,4000000,2008,103,10537,7,2.35,1800,1200,169,12,6300
+War for the Planet of the Apes,English,Action|Adventure|Drama|Sci-Fi|Thriller|War,,,16499,Color,USA,1,,,2017,,,,2.35,3900,3300,2500,221,5100
+The Train,English,Thriller|War,129,64,1721, Black and White,France,3,Unrated,6700000,1964,133,10876,7.9,1.66,353,1800,95,299,1200
+Murder by Numbers,English,Crime|Mystery|Thriller,302,137,45145,Color,USA,0,R,50000000,2002,115,45482,6.1,1.85,8700,1300,1800,58,33000
+Trade of Innocents,English,Drama|Thriller,8,7,4933,Color,USA,2,PG-13,,2012,88,786,5.4,2.35,1000,551,381,0,3400
+The Protector,Thai,Action|Crime|Drama|Thriller,215,114,4427,Color,Thailand,0,R,200000000,2005,83,31318,7.1,1.85,772,2700,744,63,2100
+Stiff Upper Lips,English,Comedy,21,12,1519,Color,UK,2,R,,1998,94,885,6.4,1.85,346,109,140,0,735
+The Inbetweeners,English,Comedy,43,14,1230,Color,UK,0,TV-14,,,25,61229,8.4,16,221,4000,218,,227
+Valhalla Rising,English,Adventure|Drama|Fantasy,275,162,7443,Color,Denmark,0,Not Rated,4000000,2009,93,45968,6,2.35,204,12000,66,1500,7100
+Bend It Like Beckham,English,Comedy|Drama|Romance|Sport,444,158,19704,Color,UK,0,PG-13,3500159,2002,112,93071,6.7,1.85,7700,2500,930,104,9700
+Crossover,English,Action|Sport,35,25,4029,Color,USA,6,PG-13,5800000,2006,95,8788,2.1,1.85,596,243,378,17,2000
+Standing Ovation,English,Musical,8,9,72,Color,USA,9,PG,,2010,105,586,3.4,,11,277,10,12,25
+Khiladi 786,Hindi,Action|Comedy|Drama|Romance,31,24,2701,Color,India,3,Not Rated,,2012,141,5010,4.3,,628,382,287,2,1700
+[Rec] 2,Spanish,Horror|Thriller,151,222,73,Color,Spain,0,R,5600000,2009,85,58325,6.6,1.85,9,4100,6,62,37
+Sunshine State,English,Drama|Romance,81,71,8228,Color,USA,5,PG-13,5600000,2002,141,3503,6.9,1.85,1400,173,1300,408,3300
+Chariots of Fire,English,Biography|Drama|Sport,220,92,3030,Color,UK,0,PG,5500000,1981,125,43214,7.2,1.85,387,2900,313,47,1300
+Diary of a Mad Black Woman,English,Comedy|Drama|Romance,203,61,11696,Color,USA,0,PG-13,5500000,2005,116,10948,5.7,1.85,2400,1500,1400,0,5100
+The Sting,English,Comedy|Crime|Drama,263,123,14037,Color,USA,0,PG,5500000,1973,129,188612,8.3,1.85,3600,9700,1600,138,6400
+Shine,English,Biography|Drama|Music|Romance,107,74,3816,Color,Australia,0,PG-13,5500000,1996,105,44873,7.7,1.85,515,4500,314,97,2900
+Don Jon,English,Comedy|Drama|Romance,320,370,55531,Color,USA,1,R,3000000,2013,90,200139,6.6,2.35,19000,33000,9400,23000,23000
+High Plains Drifter,English,Mystery|Western,174,72,20559,Color,USA,0,R,5500000,1973,105,39059,7.6,2.35,1900,2800,742,17000,17000
+Ghost World,English,Comedy|Drama,491,117,35487,Color,USA,2,R,7000000,2001,111,100096,7.4,1.85,12000,5400,1300,73,19000
+The Chorus,French,Drama|Music,111,114,747,Color,France,0,PG-13,5500000,2004,97,46710,7.9,2.35,88,5900,55,26,518
+Mambo Italiano,English,Comedy|Drama|Romance,66,67,1082,Color,Canada,0,R,5000000,2003,88,5729,6.7,1.85,214,398,77,9,668
+Iris,English,Biography|Drama|Romance,145,98,20381,Color,UK,0,R,5500000,2001,91,15274,7.1,1.85,3300,1600,1000,15,14000
+Galaxina,English,Comedy|Sci-Fi,47,22,473,Color,USA,0,R,,1980,95,2061,3.5,2.35,116,462,67,14,127
+H,,Drama|Short,,,0, Black and White,Denmark,,,,1909,,,,1.33,0,0,0,,0
+Wonderland,English,Crime|Drama|Mystery|Thriller,153,92,19820,Color,Canada,0,R,5000000,2003,104,19226,6.6,1.85,3600,1100,3500,11,4800
+Le Havre,French,Comedy|Drama,41,205,412,Color,Finland,1,Not Rated,3850000,2011,93,16376,7.2,1.85,68,5300,37,674,243
+Harvard Man,English,Comedy|Crime|Drama|Romance|Thriller,69,27,8630,Color,USA,3,R,5500000,2001,99,3842,4.9,2.35,1800,115,931,59,4000
+Salvation Boulevard,English,Action|Comedy|Drama|Thriller,31,46,22869,Color,USA,5,R,9000000,2011,96,3946,5.3,1.85,3600,1000,3400,3,6400
+Miss Julie,English,Drama|Romance,15,89,12462,Color,Norway,2,PG-13,5500000,2014,129,3434,5.6,,5400,1700,662,462,6400
+Animals,English,Drama,9,22,2164,Color,USA,0,,,2014,90,708,6.2,2.35,745,698,350,4,940
+R100,Japanese,Comedy|Drama,12,74,91,Color,Japan,0,Unrated,5500000,2013,99,1853,6,1.85,17,566,16,17,32
+Irreversible,French,Crime|Drama|Mystery|Romance|Thriller,675,198,9915,Color,France,0,Not Rated,,2002,97,92925,7.4,2.35,3300,14000,55,954,6500
+A Simple Life,Cantonese,Drama,21,100,675,Color,Hong Kong,0,Not Rated,30000000,2011,118,4273,7.6,1.85,97,984,31,9,511
+Rang De Basanti,Hindi,Comedy|Drama|History|Romance,326,34,5591,Color,India,0,Not Rated,,2006,157,80689,8.3,2.35,403,2900,402,86,3800
+Grabbers,English,Comedy|Horror|Sci-Fi|Thriller,74,193,1911,Color,UK,0,Not Rated,4000000,2012,94,14085,6.3,2.35,595,12000,120,4,826
+Headhunters,Norwegian,Crime|Drama|Thriller,123,285,3507,Color,Norway,3,R,30300000,2011,100,83635,7.6,2.39,303,24000,55,90,3100
+A Room for Romeo Brass,English,Comedy|Drama,47,28,6146,Color,UK,2,R,,1999,90,4689,7.7,1.85,698,508,224,224,5000
+The Ten,English,Comedy|Romance,118,65,15036,Color,USA,4,R,5250000,2007,96,15543,5,1.85,4000,923,3600,135,4800
+Saint Ralph,English,Comedy|Drama|Sport,54,46,2357,Color,Canada,1,PG-13,6000000,2004,98,5145,7.6,1.85,391,1000,260,12,1400
+Wilson,English,Comedy|Drama,13,70,11416,Color,USA,0,R,,2017,94,856,5.9,2.35,2800,801,2100,9,5100
+Dum Maaro Dum,Hindi,Action|Crime|Drama|Thriller,27,24,782,Color,India,0,R,,2011,128,3369,6.2,,283,416,46,4,369
+Somewhere in Time,English,Drama|Fantasy|Romance,256,41,8497,Color,USA,2,PG,5100000,1980,103,22003,7.3,1.85,2400,6700,1900,91,2600
+My Big Fat Greek Wedding,English,Comedy|Drama|Romance,759,166,1968,Color,Canada,3,PG,5000000,2002,95,106706,6.6,1.85,628,5200,258,40,656
+Get Out,English,Horror|Mystery,480,520,5964,Color,USA,0,R,5000000,2017,104,112999,7.9,2.35,1200,33000,1000,226,1200
+Split,English,Horror|Thriller,477,438,14469,Color,USA,0,PG-13,9000000,2016,117,162697,7.3,2.35,3100,50000,380,3100,9700
+Paranormal Activity 3,English,Horror,318,252,3685,Color,USA,0,R,5000000,2011,83,79766,5.8,1.85,591,24000,439,25,1300
+Saw II,English,Horror|Mystery,870,250,8152,Color,USA,0,R,4000000,2005,93,197180,6.6,1.85,1300,2300,1200,181,1500
+10 Cloverfield Lane,English,Drama|Horror|Mystery|Sci-Fi|Thriller,545,472,24338,Color,USA,0,PG-13,15000000,2016,104,193791,7.2,2.35,6500,39000,3300,22,14000
+Lights Out,English,Horror,244,291,11742,Color,USA,0,PG-13,4900000,2016,81,70410,6.4,2.35,2600,18000,2100,31,4100
+The Visit,English,Comedy|Horror|Thriller,504,393,4720,Color,USA,0,PG-13,5000000,2015,94,81711,6.2,1.85,1300,28000,436,3100,2300
+Jackass: The Movie,English,Action|Comedy|Documentary,330,106,5142,Color,USA,1,R,5000000,2002,87,70714,6.6,1.85,1700,1200,596,81,1700
+Paranormal Activity 4,English,Horror,253,253,3329,Color,USA,0,R,5000000,2012,88,53482,4.6,1.85,1200,26000,240,25,1300
+Ouija,English,Horror|Thriller,165,192,5247,Color,Japan,0,PG-13,5000000,2014,89,37590,4.4,2.35,727,19000,705,10,973
+A Nightmare on Elm Street 3: Dream Warriors,English,Action|Fantasy|Horror|Thriller,321,138,7872,Color,USA,0,R,4500000,1987,96,53494,6.6,1.85,2100,3000,1400,60,2600
+Instructions Not Included,Spanish,Comedy|Drama,82,40,695,Color,Mexico,1,PG-13,5000000,2013,115,23805,7.6,1.85,90,14000,82,405,405
+The Gift,English,Mystery|Thriller,306,308,11391,Color,USA,1,R,5000000,2015,108,96925,7.1,2.35,2400,17000,2000,2000,3700
+The Return of the Pink Panther,English,Comedy|Crime|Mystery,73,32,5308,Color,UK,0,G,5000000,1975,113,20483,7.1,2.35,1900,668,469,693,2400
+The Robe,English,Drama|History,72,40,2073,Color,USA,1,Unrated,5000000,1953,135,7014,6.8,2.2,436,1400,297,31,800
+Freddy's Dead: The Final Nightmare,English,Comedy|Fantasy|Horror|Thriller,258,96,45335,Color,USA,0,R,11000000,1991,89,32736,4.9,1.85,2100,1000,1100,57,40000
+Paranormal Activity: The Marked Ones,English,Horror|Thriller,160,224,2271,Color,USA,0,R,5000000,2014,84,33666,5,1.78,393,10000,356,53,517
+Monster,English,Biography|Crime|Drama|Thriller,539,187,16695,Color,Germany,2,R,4500000,2003,109,111336,7.3,1.85,3100,6600,1700,330,9100
+Oculus,English,Horror|Mystery,357,344,10244,Color,USA,0,R,5000000,2013,104,93040,6.5,2.35,2300,24000,2100,88,2300
+"20,000 Leagues Under the Sea",English,Adventure|Drama|Family|Fantasy|Sci-Fi,115,74,9858,Color,USA,0,Approved,5000000,1954,127,23417,7.2,2.35,1300,1600,650,137,7700
+Dallas Buyers Club,English,Biography|Drama,345,478,28127,Color,USA,0,R,5000000,2013,117,353138,8,2.35,6700,66000,3000,268,12000
+No Escape,English,Action|Thriller,233,208,8787,Color,USA,0,R,5000000,2015,103,58033,6.8,1.85,3400,18000,1600,71,3500
+The Lazarus Effect,English,Horror|Mystery|Sci-Fi|Thriller,138,157,18658,Color,USA,0,PG-13,3300000,2015,83,31809,5.2,2.35,4000,9800,1500,27,10000
+The Elephant Man,English,Biography|Drama,365,120,20934, Black and White,USA,0,PG,5000000,1980,124,173638,8.2,2.35,6900,9800,829,4700,12000
+Our Idiot Brother,English,Comedy|Drama,120,178,31744,Color,USA,1,R,5000000,2011,90,77156,6.4,1.85,4800,11000,4600,37,11000
+Memento,English,Mystery|Thriller,2089,278,12165, Black and White,USA,0,R,9000000,2000,113,904864,8.5,2.35,1900,42000,1700,22000,4200
+Clerks II,English,Comedy,472,173,12092, Black and White,USA,3,R,5000000,2006,97,118191,7.4,1.85,2300,2900,1000,2300,6800
+The Players Club,English,Comedy|Drama,26,22,3011,Color,USA,9,R,4500000,1998,104,4561,5.6,1.85,616,585,510,1700,1100
+Billy Elliot,English,Drama|Music|Romance,436,150,3738,Color,UK,4,R,5000000,2000,110,102780,7.7,1.85,853,6800,204,344,2600
+The Way Way Back,English,Comedy|Drama,220,281,25311,Color,USA,1,PG-13,5000000,2013,103,121917,7.4,1.85,3900,22000,3600,217,7000
+"As Above, So Below",English,Horror|Mystery|Thriller,225,200,1442,Color,USA,0,R,5000000,2014,93,55361,6.2,1.85,220,15000,173,71,1000
+The Man from Snowy River,English,Adventure|Drama|Family|Romance|Western,59,17,8568,Color,Australia,0,PG,3500000,1982,102,6347,7.3,2.35,491,2200,162,18,7700
+Doug's 1st Movie,English,Animation|Comedy|Family,18,28,3032,Color,USA,1,G,5000000,1999,77,2553,5,1.33,922,122,78,0,2000
+The Apostle,English,Drama,158,96,432,Color,USA,3,PG-13,5000000,1997,134,11911,7.2,1.85,130,1100,79,3100,205
+Race,English,Biography|Drama|Sport,61,141,12582,Color,Canada,0,PG-13,25000000,2016,134,23854,7.1,2.35,3200,11000,1800,82,3400
+House Party 2,English,Comedy|Drama|Music|Romance,12,11,6708,Color,USA,0,R,5000000,1991,94,3798,5.1,1.85,2000,233,912,0,2100
+Mommie Dearest,English,Biography|Drama,168,66,2129,Color,USA,1,R,5000000,1981,129,11605,6.7,1.85,538,4100,166,24,1000
+Halloween 4: The Return of Michael Myers,English,Horror|Thriller,384,143,3209,Color,USA,0,R,5000000,1988,88,31713,5.9,1.85,832,1900,126,31,1900
+Still Alice,English,Drama,208,313,32913,Color,USA,1,PG-13,5000000,2014,101,98037,7.5,1.85,9400,47000,2400,32,17000
+Apollo 18,English,Horror|Mystery|Sci-Fi|Thriller,327,225,1571,Color,USA,0,PG-13,5000000,2011,86,48586,5.2,1.33,288,9400,213,16,534
+Addicted,Spanish,Drama|Thriller,35,10,5139,Color,USA,0,R,5000000,2014,106,6604,5.2,1.85,1100,7600,750,23,1900
+O,English,Drama|Romance|Thriller,153,93,11869,Color,USA,2,R,5000000,2001,95,17663,6.2,1.85,3200,1300,1600,637,3600
+Halloween: The Curse of Michael Myers,English,Horror|Thriller,343,125,6155,Color,USA,0,R,5000000,1995,87,22296,5,1.85,832,1500,170,13,4800
+Eve's Bayou,English,Drama,211,33,13844,Color,USA,2,R,6000000,1997,109,7182,7.3,1.85,2300,753,2000,189,7500
+Friday the 13th Part VIII: Jason Takes Manhattan,English,Adventure|Horror|Thriller,299,133,1363,Color,USA,0,R,5000000,1989,100,24661,4.6,1.85,131,1200,67,6,951
+The Egyptian,English,Biography|Drama|History,71,14,2241,Color,USA,5,Approved,5000000,1954,139,2698,6.6,2.55,468,430,436,382,555
+Spring Breakers,English,Drama,571,448,25007,Color,USA,4,R,5000000,2012,94,114380,5.3,2.35,7200,25000,3300,525,11000
+Y Tu Mam,Spanish,Adventure|Comedy|Drama|Romance,387,178,5384,Color,Mexico,0,R,2000000,2001,106,95967,7.7,1.85,2000,5900,281,2100,3000
+Shaun of the Dead,English,Comedy|Horror,872,248,7368,Color,UK,6,R,4000000,2004,99,418030,8,2.35,1200,20000,636,1100,4400
+Nighthawks,English,Action|Crime|Thriller,117,44,19161,Color,USA,2,R,5000000,1981,99,13323,6.4,1.85,2300,1200,2100,8,13000
+Hillary's America: The Secret History of the Democratic Party,English,Documentary,152,32,315,Color,USA,1,PG-13,5000000,2016,106,4927,5.5,,97,5100,77,77,113
+The Haunting of Molly Hartley,English,Drama|Horror|Thriller,113,75,10693,Color,USA,5,PG-13,5000000,2008,82,8135,3.9,1.85,1200,577,1200,7,2800
+Lone Star,English,Drama|Mystery,175,71,17419,Color,USA,2,R,5000000,1996,135,24138,7.6,2.35,1900,1500,1300,408,12000
+April Fool's Day,English,Horror|Mystery,127,96,1197,Color,USA,0,R,5000000,1986,89,11215,6.2,2.35,191,2000,87,17,714
+Diner,English,Comedy|Drama,87,43,13602,Color,USA,5,R,5000000,1982,110,15612,7.2,1.85,3300,1300,890,284,7200
+Lone Wolf McQuade,English,Action|Crime|Drama|Romance|Thriller|Western,69,31,7438,Color,USA,0,PG,5000000,1983,107,8472,6.3,1.85,988,1500,418,9,4900
+Sunshine Cleaning,English,Comedy|Drama,138,193,23326,Color,USA,0,R,8000000,2008,91,63011,6.9,2.35,5700,3500,2500,19,9800
+Fifty Shades of Black,English,Comedy,66,71,7067,Color,USA,5,R,5000000,2016,92,13241,3.5,2.35,1500,11000,1100,90,1900
+Solomon and Sheba,English,Drama|History|Romance|War,34,15,2619,Color,USA,2,,5000000,1959,141,2194,6.2,2.2,778,286,340,58,1200
+A Farewell to Arms,English,Drama|Romance|War,48,41,1317, Black and White,USA,1,Unrated,800000,1932,80,3790,6.6,1.37,168,251,120,59,1000
+Not Easily Broken,English,Drama|Romance,22,42,8476,Color,USA,1,PG-13,8000000,2009,99,2420,6.1,1.85,2200,745,1700,1000,2200
+The Beastmaster,English,Action|Adventure|Fantasy,89,41,23958,Color,USA,2,PG,8000000,1982,118,16250,6.2,1.85,1100,3800,863,168,21000
+The Perfect Match,English,Comedy|Romance,11,14,8062,Color,USA,6,R,5000000,2016,96,2224,4.9,,1200,868,1000,23,3200
+Moms' Night Out,English,Comedy,132,50,6657,Color,USA,6,PG,5000000,2014,98,11165,5.4,2.35,1400,7000,590,11,2400
+Digimon: The Movie,English,Action|Adventure|Animation|Family|Sci-Fi,65,29,523,Color,USA,0,PG,5000000,2000,82,5497,5.9,1.85,97,207,53,,210
+The Belko Experiment,English,Action|Horror|Thriller,44,113,7930,Color,USA,0,R,5000000,2016,89,3772,6.3,,1400,1800,1000,103,2400
+Saved!,English,Comedy|Drama,325,120,14119,Color,USA,5,PG-13,5000000,2004,92,41275,6.9,1.85,3000,2900,2400,12,3900
+Robin and Marian,English,Adventure|Drama|Romance,91,28,17759,Color,USA,10,PG,5000000,1976,106,9322,6.6,1.85,6600,723,1300,60,7300
+The Barbarian Invasions,French,Comedy|Crime|Drama|Mystery|Romance,166,135,271,Color,Canada,2,R,6000000,2003,99,25606,7.7,2.35,28,1600,24,76,163
+Force 10 from Navarone,English,Action|Drama|War,82,30,17331, Black and White,UK,7,PG,5000000,1978,118,14096,6.3,2.35,3500,804,903,90,11000
+The Forsaken,English,Horror|Thriller,131,57,4851,Color,USA,2,R,15000000,2001,90,7503,5.3,1.85,852,330,602,23,1800
+Sea Rex 3D: Journey to a Prehistoric World,English,Documentary,4,6,72,Color,UK,0,,5000000,2010,41,317,6.9,1.78,0,88,0,0,72
+Grandma's Boy,English,Comedy,202,60,13219,Color,USA,9,R,,2006,94,69804,7,2.35,2900,4600,2000,3,3900
+UHF,English,Comedy|Drama,200,61,4121,Color,USA,2,PG-13,5000000,1989,97,22083,7,1.85,482,3800,448,3,923
+Slums of Beverly Hills,English,Comedy|Drama,80,63,10238,Color,USA,0,R,5000000,1998,91,9866,6.6,1.85,1600,493,1600,84,2900
+Once Upon a Time in the West,Italian,Western,583,170,6722,Color,Italy,2,PG-13,5000000,1968,164,232752,8.6,2.35,1500,11000,1000,1400,2500
+As,,Comedy,,,0,,,,,,,50,,,,0,0,0,0,0
+Made,English,Comedy|Crime|Drama|Thriller,168,81,19670,Color,USA,2,R,5000000,2001,95,15510,6.4,1.85,4100,408,3600,4100,8100
+90 Minutes in Heaven,English,Drama,31,14,8122,Color,USA,0,PG-13,5000000,2015,121,2498,4.7,2.35,1400,3300,851,37,4100
+Moon,English,Drama|Mystery|Sci-Fi,505,424,24849,Color,UK,0,R,5000000,2009,97,277452,7.9,2.35,3600,48000,1800,1200,18000
+Keeping Up with the Steins,English,Comedy,42,44,15773,Color,USA,0,PG-13,,2006,90,2787,5.4,1.85,2900,259,2500,7,3000
+The Sweet Hereafter,English,Drama,199,121,4158,Color,Canada,0,R,5000000,1997,112,27730,7.7,2.35,1000,1000,913,474,1300
+Bottle Shock,English,Comedy|Drama,89,107,38995,Color,USA,0,PG-13,5000000,2008,110,12825,6.8,2.35,6700,7700,3900,20,25000
+Of Gods and Men,French,Drama|History,91,195,449,Color,France,0,PG-13,4000000,2010,122,12985,7.2,2.35,148,6800,34,23,201
+Jekyll and Hyde... Together Again,English,Comedy|Music|Sci-Fi,32,24,1440,Color,USA,0,R,5000000,1982,87,932,6.2,1.85,170,341,90,3,1000
+Green Room,English,Crime|Horror|Thriller,186,390,12159,Color,USA,0,R,5000000,2015,95,63275,7,2.35,3900,17000,742,66,6100
+Heavenly Creatures,English,Biography|Crime|Drama|Thriller,268,93,15977,Color,New Zealand,2,R,5000000,1994,99,52134,7.4,2.35,1400,3200,434,7900,14000
+Everything Must Go,English,Comedy|Drama,93,154,16107,Color,USA,1,R,5000000,2010,97,42614,6.4,2.35,2400,6200,2000,7,8000
+Kill the Messenger,English,Biography|Crime|Drama|Mystery|Thriller,104,165,21135,Color,USA,1,R,5000000,2014,112,35395,7,2.35,6500,14000,1600,55,10000
+Jem and the Holograms,English,Adventure|Drama|Fantasy|Music|Romance|Sci-Fi,89,65,11875,Color,USA,0,PG,5000000,2015,118,5313,4.1,2.35,3000,52000,2500,210,3800
+Rabbit Hole,English,Drama,149,250,16596,Color,USA,0,PG-13,5000000,2010,91,42034,7,1.85,2700,7700,2700,267,5600
+Zero Effect,English,Comedy|Crime|Drama|Mystery|Thriller,151,84,6167,Color,USA,2,R,5000000,1998,116,12749,7,1.85,1400,597,659,56,3500
+The Machinist,English,Drama|Thriller,468,203,26636,Color,Spain,1,R,5000000,2004,101,298146,7.7,2.35,1500,22000,1100,125,23000
+Light Sleeper,English,Crime|Drama,41,19,14040,Color,USA,0,R,5000000,1992,103,3916,6.9,1.85,3600,259,2600,282,3900
+Atlas Shrugged: Who Is John Galt,English,Drama|Mystery|Sci-Fi,56,12,4404,Color,USA,0,PG-13,5000000,2014,99,2124,4.4,,446,1200,361,162,1500
+The Oh in Ohio,English,Comedy|Drama|Romance,56,50,14127,Color,USA,0,R,5000000,2006,88,5609,5.6,2.35,2700,255,2600,0,4800
+Bottle Rocket,English,Comedy|Crime|Drama,189,82,5360,Color,USA,1,R,7000000,1996,91,57499,7.1,1.85,1200,1900,388,8400,3500
+Party Monster,English,Biography|Crime|Drama|Thriller,158,38,10953,Color,USA,2,R,5000000,2003,98,13131,6.3,1.85,2300,2400,2000,14,3000
+Ain't Them Bodies Saints,English,Crime|Drama|Romance,60,186,15547,Color,USA,0,R,,2013,96,17146,6.4,2.35,3100,3000,2900,42,5600
+Jimi: All Is by My Side,English,Biography|Drama|Music,70,76,8943,Color,Ireland,1,R,,2013,118,4749,5.7,2.35,2100,6400,1300,445,3900
+Albino Alligator,English,Crime|Drama|Thriller,70,35,29380,Color,USA,3,R,5000000,1996,97,6831,6.1,2.35,6000,231,4100,18000,10000
+"Gandhi, My Father",Hindi,Biography|Drama|History,26,16,178,Color,India,0,,,2007,136,1361,7.4,2.35,45,137,14,0,79
+Standard Operating Procedure,English,Crime|Documentary|War,23,118,6,Color,USA,0,R,,2008,116,3483,7.5,2.35,0,492,0,240,6
+Tucker and Dale vs Evil,English,Comedy|Horror,213,331,7671,Color,Canada,1,R,,2010,89,137045,7.6,2.35,948,51000,775,85,4700
+Desert Blue,English,Drama,29,30,12519,Color,USA,0,R,2000000,1998,90,1948,6.2,1.85,2700,98,1700,204,3100
+"Lovely, Still",English,Drama|Romance,17,27,9612,Color,USA,0,PG,5000000,2008,90,1698,7.2,1.85,3000,807,1000,6,4600
+Out of the Blue,English,Drama,26,25,3780,Color,Canada,1,R,2200000,1980,94,1730,7.2,1.85,343,282,93,3200,3200
+Tycoon,English,Thriller,,,774,Color,USA,1,,,,,10,6,,80,0,22,,635
+Decoys,English,Comedy|Horror|Sci-Fi,66,34,3749,Color,Canada,0,R,5000000,2004,95,4155,4.6,1.85,838,180,558,3,894
+Rudderless,English,Comedy|Drama|Music,71,46,5371,Color,USA,2,R,5000000,2014,105,14454,7.5,,782,7800,519,2600,3300
+Redacted,English,Crime|Thriller|War,108,133,424,Color,USA,0,R,5000000,2007,90,9139,6.1,1.85,37,564,15,1500,348
+Christmas Eve,English,Comedy,17,8,8289,Color,USA,7,PG,,2015,95,1482,5.1,,1100,1800,1000,7,3600
+Saving Grace,English,Drama|Fantasy,47,7,9561,Color,USA,1,TV-MA,,,60,3983,7.6,1.78,1200,673,1000,,3800
+Fascination,English,Mystery|Romance|Thriller,44,13,1851,Color,Germany,0,R,5000000,2004,103,1233,3.3,2.35,568,45,227,33,821
+Sleep Tight,Spanish,Drama|Horror|Thriller,53,192,551,Color,Spain,0,Not Rated,5000000,2011,102,26618,7.2,2.35,105,6300,79,62,343
+Area 51,English,Horror|Sci-Fi|Thriller,62,56,119,Color,USA,0,R,5000000,2015,91,9113,4.2,,21,3500,14,110,47
+Flying By,English,Drama|Family|Music,2,,3351,Color,USA,6,PG-13,,2009,90,219,4.6,,660,38,486,0,720
+Yoga Hosers,English,Comedy|Fantasy|Horror|Thriller,60,97,17833,Color,USA,7,PG-13,5000000,2016,88,7145,4.3,2.35,3100,5100,2600,2300,3300
+The Cottage,English,Comedy|Crime|Horror|Thriller,86,80,5199,Color,UK,0,Unrated,2500000,2008,92,10449,6.1,2.35,577,675,357,46,3900
+Dead Like Me: Life After Death,English,Comedy|Drama|Fantasy,80,18,3806,Color,USA,1,R,5000000,2009,87,11171,6.1,1.78,745,899,688,82,874
+Farce of the Penguins,English,Animation|Comedy,47,19,23768,Color,USA,0,R,,2006,80,4400,4.2,1.85,3100,429,2300,809,7500
+Psycho,English,Horror|Mystery|Thriller,1063,258,3336, Black and White,USA,3,Approved,806947,1960,109,455784,8.5,1.85,621,19000,612,14000,1100
+Henry & Me,English,Animation|Family,1,3,13198,Color,USA,2,PG,10000000,2014,67,106,6.1,,2900,165,1000,0,7700
+Born of War,English,Action|Drama|Thriller|War,3,7,1745,Color,UK,3,R,1000000,2014,109,278,4.4,,319,195,127,3,1000
+Dying of the Light,English,Drama|Thriller,49,66,21224,Color,Bahamas,1,R,5000000,2014,94,7662,4.4,2.35,6100,2300,1500,282,13000
+Let's Kill Ward's Wife,English,Comedy|Crime,14,15,5352,Color,USA,2,Unrated,5000000,2014,82,4686,5.4,,1300,1100,1000,1400,1400
+Should've Been Romeo,English,Comedy|Drama,2,2,9318,Color,USA,16,,5000000,2012,,40,6.6,,1700,35,1000,3,2400
+Capricorn One,English,Action|Thriller,154,64,8339,Color,USA,7,PG,5000000,1977,123,16732,6.8,2.35,1200,2200,944,2200,2600
+We Have Your Husband,English,Crime|Drama|Thriller,3,1,3147,Color,USA,1,TV-PG,5000000,2011,87,236,5.4,1.78,714,56,618,49,734
+Aztec Warrior,English,Action|Comedy,,,8276,Color,USA,,PG-13,5000000,2016,,10,7,,2900,83,888,2,2900
+Navy Seals vs. Zombies,English,Action|Horror,19,24,10119,Color,USA,2,,,2015,97,1236,3.3,,740,2800,636,20,7200
+Running Forever,English,Family,,,3176,Color,USA,2,,5000000,2015,88,11,6.8,,764,49,702,0,783
+The Hatching,English,Comedy|Fantasy|Horror,7,4,1679,Color,UK,0,R,5000000,2016,90,503,4,,300,470,183,0,1100
+Mommy,French,Drama,45,245,442,Color,Canada,0,R,,2014,139,33672,8.1,1,59,13000,49,1700,251
+Sling Blade,English,Drama,312,104,11507,Color,USA,0,R,890000,1996,135,75750,8,1.85,3100,6000,2200,3800,3800
+The Awakening,English,Horror|Thriller,119,196,6121,Color,UK,1,R,3000000,2011,102,52640,6.5,2.35,1300,10000,874,59,2400
+All Hat,English,Western,8,8,6421,Color,Canada,2,R,5000000,2007,89,454,5.3,2.35,1200,34,1200,0,1300
+Only God Forgives,English,Crime|Drama,492,452,34885,Color,Denmark,1,R,4800000,2013,90,89873,5.7,1.85,1000,30000,482,1500,33000
+Soul Kitchen,German,Comedy|Drama,28,115,1560,Color,Germany,3,,4000000,2009,99,30719,7.3,1.85,492,6500,264,833,631
+Hostel,English,Horror|Mystery,1521,304,3218,Color,USA,0,R,4800000,2005,94,145149,5.9,2.35,1100,5800,598,1200,1100
+Tristram Shandy: A Cock and Bull Story,English,Comedy|Drama,125,121,3801,Color,UK,0,R,2800000,2005,94,11466,6.8,2.35,931,785,434,194,1000
+Take Shelter,English,Drama|Thriller,224,360,10918,Color,USA,0,R,5000000,2011,121,74318,7.4,2.35,3900,14000,1000,371,5400
+The Texas Chainsaw Massacre 2,English,Comedy|Horror,264,161,9407,Color,USA,3,Unrated,4700000,1986,89,20449,5.6,1.85,3200,2200,1200,380,4700
+Driving Lessons,English,Comedy|Drama,72,64,13758,Color,UK,0,PG-13,,2006,98,9884,6.8,1.85,2000,879,853,17,10000
+Lady in White,English,Fantasy|Horror|Mystery|Thriller,86,164,2584,Color,USA,0,R,4700000,1988,113,5052,6.7,1.85,740,2000,348,7,971
+Without Men,English,Comedy,13,4,17317,Color,USA,6,R,3000000,2011,87,1494,3.2,,2000,496,1300,20,9600
+Pat Garrett & Billy the Kid,English,Biography|Drama|Western,110,54,3916,Color,USA,2,R,4638783,1973,122,14253,7.4,2.35,858,1200,513,562,1300
+Treading Water,English,Comedy|Drama,3,10,3740,Color,Mexico,1,,4700000,2013,92,466,6.2,,987,200,490,4,1700
+Camping sauvage,French,Drama,6,7,297,Color,France,0,,,2005,79,269,5.4,,40,11,27,0,230
+Dear Frankie,English,Drama|Romance,181,95,19407,Color,UK,0,PG-13,,2004,105,19359,7.8,1.85,1300,2100,66,11,18000
+The Names of Love,French,Comedy|Drama|Romance,21,86,144,Color,France,1,R,4600000,2010,100,6573,7.2,1.85,51,2600,9,3,75
+Barfi,Kannada,Comedy|Romance,1,1,5,Color,India,2,,,2013,105,95,6.2,,0,2,0,0,5
+Savage Grace,English,Drama,69,120,24539,Color,Spain,1,Not Rated,4600000,2007,97,9357,5.9,1.85,9400,1300,1000,4,13000
+Out of the Blue,English,Drama,26,25,3780,Color,Canada,1,R,2200000,1980,94,1730,7.2,1.85,343,282,93,3200,3200
+The Blue Lagoon,English,Adventure|Drama|Romance,145,37,2792,Color,USA,2,R,4500000,1980,104,52603,5.7,1.85,1000,3600,534,137,1100
+Police Academy,English,Comedy,136,45,7310,Color,USA,10,R,4500000,1984,96,92523,6.7,1.85,1400,3900,1200,41,1400
+Four Weddings and a Funeral,English,Comedy|Drama|Romance,203,82,6936,Color,UK,4,R,4400000,1994,117,113351,7.1,1.66,1300,3500,1100,183,2500
+Fast Times at Ridgemont High,English,Comedy|Drama,240,122,12994,Color,USA,3,R,4500000,1982,90,75557,7.2,1.85,2800,6700,1100,149,4700
+25th Hour,English,Drama,461,203,42088,Color,USA,1,R,5000000,2002,135,154486,7.7,2.35,8800,7700,3400,1600,22000
+Secrets and Lies,English,Crime|Drama,35,7,17824,Color,USA,1,,,,43,8718,7.7,16,3200,2400,2500,,4000
+Moby Dick,English,Adventure|Drama,117,47,3032,Color,UK,0,Unrated,4500000,1956,116,14152,7.4,1.66,270,1400,261,1000,2300
+Requiem for a Dream,English,Drama,1938,240,18149,Color,USA,0,R,4500000,2000,102,614374,8.4,1.37,6400,39000,1500,4500,6700
+L,Swedish,Action|Comedy|Horror,,,4,Color,Sweden,0,,10000,2010,87,12,4.6,,0,0,0,0,4
+State Fair,English,Comedy|Drama|Musical|Romance,55,17,3069,Color,USA,5,Approved,,1945,100,2910,7.1,1.37,197,528,166,9,2500
+Bound,English,Crime|Romance|Thriller,209,119,7496,Color,USA,0,R,4500000,1996,108,42882,7.4,1.85,1400,2200,1200,1100,3100
+Tango,Spanish,Drama|Musical,40,35,380,Color,Spain,3,PG-13,700000000,1998,115,2491,7.2,2,27,559,5,102,348
+Donnie Darko,English,Drama|Sci-Fi|Thriller,2131,336,27913,Color,USA,3,R,4500000,2001,113,620808,8.1,2.35,5900,35000,3500,218,15000
+Saving Private Perez,Spanish,Adventure|Comedy|Western,14,15,844,Color,Mexico,6,PG-13,,2011,105,1636,6,2.35,156,1100,123,5,278
+Salvador,English,Action|Drama|History|Thriller|War,89,48,4743,Color,UK,1,R,4500000,1986,122,16018,7.5,1.85,879,1100,854,2200,1700
+Mozart's Sister,French,Biography|Drama|Music|Romance,18,49,55,Color,France,2,,,2010,120,1283,6.4,1.85,12,1200,9,0,25
+Character,Dutch,Crime|Drama|Mystery,68,53,47,Color,Netherlands,1,R,4500000,1997,122,9422,7.8,1.85,20,699,4,4,23
+Life During Wartime,English,Comedy|Drama,37,158,11320,Color,USA,1,R,,2009,98,5780,6.4,1.85,1500,1200,1400,426,1900
+Lady Vengeance,Korean,Crime|Drama,132,203,913,Color,South Korea,1,R,4200000000,2005,115,57263,7.6,2.35,127,4200,37,1700,721
+Spun,English,Comedy|Crime|Drama,199,92,26743,Color,USA,0,R,2000000,2002,101,33134,6.8,1.85,6400,3100,3300,82,8000
+Blackthorn,English,Action|Adventure|Western,44,91,5092,Color,Spain,0,R,,2011,102,7838,6.6,2.35,851,1500,365,4,3100
+Maggie,English,Drama|Horror,214,262,15616,Color,USA,2,PG-13,8500000,2015,95,34067,5.6,2.35,3500,23000,2200,9,7900
+Lilya 4-Ever,Russian,Crime|Drama,208,113,140,Color,Sweden,1,R,,2002,109,36941,7.9,1.85,3,4300,0,187,137
+After.Life,English,Drama|Horror|Mystery|Thriller,140,136,22518,Color,USA,1,R,4500000,2009,104,32136,5.9,2.35,3300,7100,3100,6,14000
+Exiled,Cantonese,Action|Crime|Thriller,27,96,434,Color,Hong Kong,0,R,35000000,2006,110,7226,7.3,2.35,97,541,74,141,157
+Mean Machine,English,Comedy|Crime|Drama|Sport,84,54,38706,Color,UK,4,R,2500000,2001,99,30684,6.5,1.85,7500,2100,1700,0,26000
+Coco,English,Drama|Musical,,,3836,Color,USA,,,,2017,,,,2.35,758,26,724,558,1000
+The Sweeney,English,Action|Comedy|Crime|Drama,20,8,338,Color,UK,0,,,,60,1208,8.1,1.33,68,295,6,,264
+Falcon Rising,English,Action|Adventure,35,31,6287,Color,USA,1,R,4500000,2014,103,5420,5.8,,2100,1400,333,241,3200
+Hansel & Gretel Get Baked,English,Comedy|Horror,12,47,5638,Color,USA,0,,4500000,2013,86,2946,4.3,1.78,722,6200,633,3,2300
+Zipper,English,Drama|Thriller,24,36,21637,Color,USA,0,R,4500000,2015,103,4938,5.7,2.35,4100,1000,3800,6,5500
+One Flew Over the Cuckoo's Nest,English,Drama,786,155,4898,Color,USA,0,R,4400000,1975,133,726652,8.7,1.85,914,33000,745,907,2600
+Fugly,Hindi,Drama|Thriller,7,9,511,Color,India,4,,,2014,134,823,4.7,,82,62,62,0,327
+Airlift,Hindi,Drama|History|Thriller|War,189,39,1839,Color,India,1,Not Rated,4400000,2016,130,40131,8.2,2.35,90,10000,14,6,1700
+Silent Movie,,Comedy,66,37,7731,Color,USA,1,PG,4400000,1976,87,13386,6.7,1.85,1400,674,905,3200,3200
+R.L. Stine's Monsterville: The Cabinet of Souls,English,Comedy|Fantasy|Horror,5,5,40530,Color,USA,3,PG,4400000,2015,86,1236,5.8,1.78,626,268,213,367,39000
+Whale Rider,English,Drama|Family,357,150,1830,Color,New Zealand,1,PG-13,6000000,2002,101,35326,7.6,2.35,455,3600,27,63,1300
+Sexy Beast,English,Crime|Thriller,350,147,8499,Color,UK,1,R,,2000,89,45229,7.3,2.35,3500,4000,1000,146,3700
+Anne of Green Gables,English,Drama|Family,75,2,2777,Color,Canada,0,TV-G,,,199,15730,8.4,1.33,545,3100,522,,672
+Night Watch,Russian,Action|Fantasy|Horror|Thriller,313,232,209,Color,Russia,0,R,4200000,2004,114,48340,6.5,1.85,27,4100,16,341,115
+Easy Money,Swedish,Action|Crime|Drama|Thriller,26,91,4401,Color,Sweden,1,R,,2010,124,14194,6.7,2.35,308,1900,284,88,3500
+Paa,Hindi,Comedy|Drama,51,12,3166,Color,India,0,,150000000,2009,133,8684,7.2,2.35,468,507,369,10,2100
+Night of the Living Dead,English,Horror,590,297,422, Black and White,USA,3,Unrated,114000,1968,96,92862,7.9,1.37,116,7800,55,2900,129
+Animal Kingdom,English,Crime|Drama,33,11,3295,Color,USA,0,,,,60,7060,8.1,16,569,2500,566,,1500
+Survival of the Dead,English,Horror|Thriller,162,273,2011,Color,USA,0,R,4000000,2009,90,18057,4.9,2.35,535,3200,240,2900,668
+Cargo,German,Mystery|Sci-Fi|Thriller,64,64,80,Color,Switzerland,0,,4500000,2009,112,16486,6.2,2.35,20,2100,9,0,30
+Love and Death on Long Island,English,Comedy|Drama,49,51,7871,Color,UK,1,PG-13,,1997,93,3494,7.1,1.85,483,90,238,23,6900
+High School Musical,English,Comedy|Drama|Family|Music|Musical|Romance,727,54,15068,Color,USA,0,TV-G,4200000,2006,98,63331,5.2,1.33,3300,1900,1800,198,7400
+Porky's,English,Comedy,157,76,2016,Color,Canada,0,R,25000000,1981,94,32492,6.2,1.85,111,2800,102,93,1400
+Pan,English,Adventure|Family|Fantasy,198,262,41840,Color,USA,4,PG,150000000,2015,111,47954,5.8,2.35,9900,24000,5600,455,20000
+The Crying Game,English,Crime|Drama|Romance|Thriller,151,70,5254,Color,UK,0,R,2300000,1992,112,43358,7.3,2.35,1000,2300,545,282,2800
+Annie Hall,English,Comedy|Romance,503,134,21486,Color,USA,0,PG,4000000,1977,93,208007,8.1,1.37,6700,10000,2000,11000,11000
+Lost in Translation,English,Drama,1864,267,35516,Color,USA,0,R,4000000,2003,102,338362,7.8,1.85,13000,18000,3500,1400,19000
+The Greatest Show on Earth,English,Drama|Family|Romance,113,43,2524,Color,USA,0,Not Rated,4000000,1952,152,10105,6.7,1.37,249,723,227,322,1600
+The Boy Next Door,English,Mystery|Thriller,138,264,12451,Color,USA,1,R,4000000,2015,91,30224,4.6,2.35,3000,8100,1600,364,3600
+Leaving Las Vegas,English,Drama|Romance,294,120,18807,Color,USA,0,R,3600000,1995,111,97807,7.6,1.66,1800,5700,1100,85,13000
+Monster's Ball,English,Drama|Romance,524,151,18657,Color,USA,1,R,4000000,2001,111,73783,7.1,2.35,3800,1600,1100,410,13000
+Boyhood,English,Drama,865,562,6712,Color,USA,0,R,4000000,2014,165,287021,7.9,1.85,1400,93000,1200,3900,3400
+The Kids Are All Right,English,Comedy|Drama|Romance,295,323,36324,Color,USA,1,R,3500000,2010,106,114249,7.1,1.85,9400,16000,6600,451,14000
+The Life of Brian,English,,,,34000,Color,France,,,,2002,52,58,5.2,,14000,0,3000,0,17000
+Exodus: Gods and Kings,English,Action|Adventure|Drama,683,318,45156,Color,UK,0,PG-13,140000000,2014,150,137459,6,2.35,6000,51000,4000,7400,23000
+A Haunted House 2,English,Comedy|Fantasy,49,69,7975,Color,USA,2,R,4000000,2014,86,15699,4.7,1.85,1200,3500,1100,90,1500
+The Last Exorcism Part II,English,Drama|Horror|Thriller,69,161,48966,Color,France,0,PG-13,5000000,2013,88,14070,4,2.35,544,8800,406,10,47000
+Trapeze,English,Drama|Romance,35,19,3937,Color,USA,0,Approved,4000000,1956,105,3328,6.9,2.35,1200,292,778,91,1700
+The Return of the Living Dead,English,Comedy|Horror,304,207,2315,Color,USA,0,R,4000000,1985,91,42485,7.3,1.85,443,6200,361,241,460
+The Front Page,English,Comedy|Drama|Romance,50,35,8126,Color,USA,2,PG,4000000,1974,105,9656,7.3,2.35,1600,739,1400,1500,2600
+Saving Grace,English,Drama|Fantasy,47,7,9561,Color,USA,1,TV-MA,,,60,3983,7.6,1.78,1200,673,1000,,3800
+They Live,English,Action|Horror|Sci-Fi|Thriller,343,181,5105,Color,USA,0,R,4000000,1988,94,80551,7.3,2.35,1300,30000,456,2400,2700
+The Great Escape,English,Adventure|Drama|History|Thriller|War,307,110,20589,Color,USA,0,Approved,4000000,1963,172,177409,8.2,2.35,4300,8700,3400,128,6800
+What the #$*! Do We (K)now!,English,Comedy|Documentary|Drama|Fantasy|Mystery|Sci-Fi,488,69,2787, Black and White,USA,0,Unrated,,2004,109,12291,5.3,1.85,679,2000,462,0,873
+The Darkness,English,Horror|Thriller,73,70,15405,Color,USA,0,PG-13,4000000,2016,92,8452,4.3,3,2500,3600,2300,103,7200
+Scoop,English,Comedy|Crime|Mystery,249,180,24016,Color,UK,0,PG-13,4000000,2006,96,70473,6.7,1.85,3700,2400,470,11000,19000
+The Wash,English,Comedy,38,26,3566,Color,USA,2,R,7000000,2001,93,5807,4.6,1.85,525,845,238,71,2600
+Planet of the Apes,English,Action|Adventure|Sci-Fi|Thriller,1373,235,37347,Color,USA,0,PG-13,100000000,2001,119,184574,5.7,2.35,8200,3900,7700,13000,8900
+3 Strikes,English,Comedy,11,22,7337,Color,USA,1,R,3400000,2000,82,1465,4,1.85,1500,117,989,71,2300
+The Cooler,English,Crime|Drama|Fantasy|Romance,217,136,10788,Color,USA,1,R,3200000,2003,101,29340,7,2.35,2400,790,1500,51,2600
+The Misfits,English,Drama|Romance|Western,125,68,13623, Black and White,USA,2,Approved,4000000,1961,125,13774,7.4,1.66,4400,1800,2000,1000,5500
+The Night Listener,English,Crime|Mystery|Thriller,159,124,56820,Color,USA,0,R,4000000,2006,91,13346,5.9,1.85,3300,604,1300,5,49000
+The Jerky Boys,English,Comedy|Crime,38,10,2345,Color,USA,0,R,,1995,82,2184,4.6,1.85,593,145,252,7,1300
+The Orphanage,Spanish,Drama|Mystery|Thriller,315,303,966,Color,Spain,0,R,3400000,2007,105,125791,7.5,2.35,281,11000,143,203,387
+The Rules of Attraction,English,Comedy|Drama|Romance,427,137,32610,Color,USA,2,R,4000000,2002,110,45496,6.7,1.85,4300,2300,3900,786,16000
+Bug,English,Drama|Horror|Thriller,330,211,8617,Color,USA,0,R,4000000,2006,102,28874,6.1,1.85,1800,3400,1800,632,3900
+Topaz,English,Drama|Thriller,95,48,809,Color,USA,1,PG,4000000,1969,143,13367,6.3,1.85,209,462,149,14000,226
+Four Rooms,English,Comedy,180,52,17038,Color,USA,6,R,4000000,1995,98,82127,6.7,1.85,4200,5500,1700,101,5700
+Let's Go to Prison,English,Comedy|Crime,63,46,9147,Color,USA,0,R,,2006,84,20604,6,1.85,1200,1000,1200,1400,3900
+Secretary,English,Comedy|Drama|Romance,398,163,11231,Color,USA,1,R,4000000,2002,104,71054,7,1.85,3000,16000,784,30,5900
+The Real Cancun,English,Documentary,62,50,1017,Color,USA,1,R,8000000,2003,96,3637,2.7,1.85,48,132,12,2,957
+Waiting for Guffman,English,Comedy,203,49,7434,Color,USA,0,R,4000000,1996,84,23369,7.6,1.85,1200,1800,1200,411,1300
+Talk Radio,English,Drama,83,39,5894,Color,USA,0,R,4000000,1988,110,10564,7.3,1.85,1400,899,775,2200,2400
+Love Stinks,English,Comedy,85,44,7616,Color,USA,3,R,4000000,1999,94,4480,5.8,1.85,1200,314,854,25,3700
+Samsara,None,Documentary|Music,71,113,48,Color,USA,0,PG-13,4000000,2011,102,25152,8.5,2.35,0,26000,0,333,48
+You Kill Me,English,Comedy|Crime|Romance|Thriller,77,120,12138,Color,USA,1,R,4000000,2007,93,16521,6.5,2.55,3500,866,1400,133,3900
+Thumbsucker,English,Comedy|Drama,93,114,7323,Color,USA,2,R,4000000,2005,96,19188,6.6,2.35,1200,713,739,107,4900
+The Art of Getting By,English,Drama|Romance,73,120,14136,Color,USA,2,PG-13,,2011,83,48676,6.6,2.35,4500,7100,1600,21,4500
+Holy Motors,French,Drama|Fantasy,113,338,5033,Color,France,0,Not Rated,,2012,115,32068,7.1,1.85,714,13000,230,228,3700
+Red State,English,Action|Crime|Horror|Thriller,291,270,6504,Color,USA,0,R,4000000,2011,88,55583,6.2,1.85,1000,16000,1000,2300,1600
+Mirrormask,English,Adventure|Fantasy,151,114,2545,Color,UK,0,PG,4000000,2005,101,20775,6.9,1.85,427,2500,303,21,1300
+The Barbarians,English,Adventure|Fantasy,36,16,1754,Color,USA,0,R,4000000,1987,87,2474,4.9,1.85,600,632,327,103,745
+The Loss of Sexual Innocence,English,Drama,71,30,14218,Color,USA,0,R,4000000,1999,106,2926,5.4,1.78,2100,113,832,85,9700
+Poolhall Junkies,English,Comedy|Drama|Sport|Thriller,114,40,13981,Color,USA,4,R,4000000,2002,99,8766,7,1.85,2100,893,1900,60,6700
+The Face of Love,English,Drama|Romance,31,58,54647,Color,USA,1,PG-13,4000000,2013,92,3826,6.2,1.85,2900,1400,1500,3,49000
+Mighty Joe Young,English,Action|Adventure|Family|Fantasy|Thriller,91,35,28413,Color,USA,0,PG,90000000,1998,114,23969,5.6,1.85,9100,1100,2300,32,13000
+Prison,English,Crime|Drama|Horror|Thriller,38,69,12209,Color,USA,0,R,1300000,1987,102,2937,5.9,1.85,1100,358,635,227,10000
+Adore,English,Drama|Romance,91,143,27590,Color,Australia,0,R,16000000,2013,112,25257,6.2,2.35,6000,8100,2200,110,18000
+Shooting Fish,English,Comedy|Crime|Romance,53,42,9777,Color,UK,3,PG,3000000,1997,109,6832,6.6,2.35,1100,171,418,14,7600
+Psycho Beach Party,English,Comedy|Horror|Mystery,94,51,14606,Color,Australia,1,Unrated,1500000,2000,95,4765,6.3,1.85,1300,643,1200,0,9800
+Desert Dancer,English,Biography|Drama,11,31,5156,Color,UK,0,PG-13,4000000,2014,104,1391,6.1,2.35,1400,2300,520,10,2400
+The Big Tease,English,Comedy,31,33,5301,Color,UK,1,R,4000000,1999,86,2168,6.3,1.85,1100,183,770,9,1200
+Buen D,German,Drama,7,26,1135,Color,Mexico,0,PG-13,4000000,2013,120,2346,7.7,2.35,88,1700,71,45,927
+Mondays in the Sun,Spanish,Comedy|Drama,39,63,8807,Color,Spain,1,R,4000000,2002,113,10550,7.7,1.85,343,1300,27,59,8400
+Manglehorn,English,Drama,41,111,17912,Color,USA,1,PG-13,4000000,2014,97,5601,5.6,2.35,1200,1900,1000,240,15000
+An Everlasting Piece,English,Comedy,26,34,2825,Color,USA,4,R,14000000,2000,103,1437,6.3,1.85,742,165,463,284,1400
+Trust,English,Crime|Drama|Thriller,141,107,16080,Color,USA,0,R,9500000,2010,106,36081,7,2.35,4100,10000,1500,1500,7200
+Among Giants,English,Comedy|Romance,26,30,10970,Color,UK,1,R,2500000,1998,93,827,5.9,,3900,112,1200,12,5200
+The Velocity of Gary,English,Comedy|Drama|Romance,41,18,12240,Color,USA,0,R,4000000,1998,100,1586,5.1,2.35,4200,102,1300,137,4900
+Futuro Beach,Portuguese,Drama|Romance,10,73,726,Color,Brazil,2,Unrated,4000000,2014,106,1986,6.1,2.35,32,280,10,19,678
+Stake Land,English,Drama|Horror|Sci-Fi,143,217,4067,Color,USA,1,R,650000,2010,98,36155,6.5,2.35,1100,8500,531,60,1900
+The Last Time I Committed Suicide,English,Biography|Drama,27,12,31398,Color,USA,1,R,4000000,1997,92,1767,5.8,1.85,5100,166,2100,19,19000
+Sonny with a Chance,English,Comedy|Family|Romance,47,5,4424,Color,USA,1,TV-G,,,23,8146,6.2,1.33,1600,327,254,,1900
+Another Happy Day,English,Comedy|Drama,43,45,14045,Color,USA,4,R,4000000,2011,119,3467,6.1,2.35,3100,809,2200,8,3100
+The Geographer Drank His Globe Away,Russian,Adventure|Drama,3,9,192,Color,Russia,0,,4000000,2013,120,2929,7.5,,50,326,23,0,115
+Inescapable,English,Action|Drama|Mystery|Romance|Thriller,22,36,10744,Color,Canada,3,R,4000000,2012,93,2189,5.2,2.35,2900,674,2500,55,3600
+A Lonely Place to Die,English,Adventure|Crime|Thriller,102,136,4003,Color,UK,1,R,4000000,2011,99,23280,6.3,2.35,766,3600,720,8,1300
+Nothing,English,Comedy|Fantasy,50,37,1319,Color,Canada,0,R,,2003,90,5283,6.3,2.35,246,703,163,168,692
+Purple Violets,English,Comedy|Drama|Romance,19,5,10564,Color,USA,5,,4000000,2007,103,2803,6.5,1.85,1400,302,1200,1200,3900
+1776,English,Drama|Family|History|Musical,131,34,2706,Color,USA,0,G,4000000,1972,141,6501,7.6,2.35,741,5500,677,0,1100
+The Loved Ones,English,Horror|Thriller,109,184,2860,Color,Australia,1,R,,2009,84,29727,6.7,2.35,408,8200,136,17,2200
+Hell's Angels,English,Drama|War,56,38,536, Black and White,USA,1,Passed,3950000,1930,127,3940,7.8,1.2,13,305,5,183,506
+Replicas,English,Sci-Fi|Thriller,,,22871,Color,USA,,,,2017,,,,,2400,276,340,11,19000
+The Veil,English,Drama|Horror|Thriller,36,39,10341,Color,USA,3,R,4000000,2016,93,5315,4.7,2.35,1300,2800,853,23,5400
+No Vacancy,English,Horror,22,14,2226,Color,USA,0,R,4000000,2012,81,1670,4.2,2.35,164,542,142,566,1600
+How to Fall in Love,English,Comedy|Romance,5,3,3264,Color,USA,2,TV-G,4000000,2012,84,2209,6.3,1.78,642,185,350,4,1300
+The Perfect Wave,English,Adventure|Biography|Drama|Romance,15,4,3464,Color,South Africa,1,PG,4000000,2014,94,828,4.7,,545,370,485,344,2300
+Chain of Command,English,Action|Thriller,17,12,6088,Color,USA,3,R,5000000,2015,88,949,3.5,1.33,1700,385,1400,2,2100
+A Man for All Seasons,English,Biography|Drama|History,171,67,10879,Color,UK,5,G,2000000,1966,120,24967,7.9,1.66,2700,2400,571,206,6900
+Ben-Hur,English,Adventure|Drama|History,391,123,2311,Color,USA,0,G,15900000,1959,212,174060,8.1,2.66,106,9300,103,363,1600
+Gone with the Wind,English,Drama|History|Romance|War,724,160,3772,Color,USA,0,G,3977000,1939,238,229852,8.2,1.37,520,17000,417,157,1800
+Network,English,Drama,325,164,6285,Color,USA,3,R,3800000,1976,121,111619,8.1,1.85,1000,18000,810,4700,3100
+Down for Life,English,Drama,7,1,6867,Color,USA,3,R,,2009,92,267,7.2,1.85,1700,246,894,2,1900
+Major Dundee,English,Adventure|War|Western,68,53,5974,Color,USA,8,Approved,3800000,1965,123,5643,6.8,2.35,1300,278,858,562,1600
+The Good Heart,English,Comedy|Drama,15,61,4798,Color,Iceland,2,R,3800000,2009,99,3757,6.9,2.35,1500,1100,225,32,2800
+Annie Get Your Gun,English,Biography|Comedy|Musical|Romance|Western,95,21,835,Color,USA,2,Passed,3768785,1950,107,3405,7,1.37,281,524,100,26,299
+House of Sand,Portuguese,Drama,35,41,223,Color,Brazil,1,R,8000000,2005,115,2716,7.4,2.35,67,389,25,7,121
+Four Lions,English,Comedy|Crime|Drama,156,248,1539,Color,UK,0,R,,2010,97,59910,7.3,1.85,425,18000,108,70,581
+Defendor,English,Comedy|Crime|Drama,91,78,15918,Color,Canada,0,R,3500000,2009,101,32565,6.8,2.35,5100,4200,1400,93,5400
+The Ballad of Cable Hogue,English,Comedy|Drama|Romance|Western,66,32,3397,Color,USA,2,R,3716946,1970,121,6696,7.3,1.85,586,367,380,562,1300
+The History Boys,English,Comedy|Drama|Romance,175,113,8118,Color,UK,0,R,2000000,2006,109,18273,6.9,1.85,1900,1400,826,14,3100
+The Pirate,English,Adventure|Comedy|Musical|Romance,54,40,3320,Color,USA,0,Approved,3700000,1948,102,3452,7.1,1.37,1400,417,95,147,1600
+Midnight Cowboy,English,Drama,344,95,9626, Black and White,USA,2,R,3600000,1969,113,80688,7.9,1.37,1900,4700,186,162,7200
+Unknown,English,Action|Mystery|Thriller,333,351,22601,Color,UK,3,PG-13,30000000,2011,113,218803,6.9,2.35,3400,29000,1900,223,14000
+Airplane!,English,Comedy,434,134,12990,Color,USA,1,PG,3500000,1980,88,169930,7.8,1.85,2100,18000,690,108,7700
+M*A*S*H,English,Comedy|Drama|War,149,49,7920,Color,USA,5,TV-PG,,,25,40152,8.4,4,1600,4600,1500,,2500
+Menace II Society,English,Crime|Drama|Thriller,99,29,10640,Color,USA,0,R,3500000,1993,97,42070,7.5,1.85,881,2500,594,120,7500
+The Full Monty,English,Comedy|Drama,178,121,6022,Color,UK,6,R,3500000,1997,91,85506,7.2,1.85,1000,3200,894,11,3600
+Friday,English,Comedy|Drama,163,20,11052, Black and White,USA,2,R,3500000,1995,91,80115,7.3,1.85,2300,8500,1700,497,2400
+The Witch,English,Horror|Mystery,563,487,1338,Color,USA,0,R,3500000,2015,92,102297,6.8,1.66,239,53000,195,26,668
+Sharknado,English,Comedy|Horror|Sci-Fi,251,141,7971,Color,USA,0,TV-14,1000000,2013,86,37267,3.3,1.78,1800,94000,998,49,3000
+Empire,English,Drama|Music,103,23,8279,Color,USA,2,TV-14,,,42,30756,7.8,16,2200,14000,916,,2500
+Creepshow 2,English,Comedy|Fantasy|Horror,121,104,4994,Color,USA,0,R,3500000,1987,92,17015,6,1.85,1200,1300,281,10,3100
+The Nun's Story,English,Drama,85,25,7309,Color,USA,6,Not Rated,3500000,1959,149,7478,7.6,1.78,163,991,153,206,6600
+Frenzy,English,Thriller,205,111,876,Color,UK,0,R,2000000,1972,116,32730,7.5,1.85,164,1600,132,14000,210
+In Cold Blood,English,Biography|Crime|Drama|History,130,75,2789, Black and White,USA,0,Approved,3500000,1967,134,19956,8,2.35,283,1600,248,185,1700
+I Got the Hook Up,English,Comedy,38,19,2104,Color,USA,2,R,3500000,1998,93,1785,4,1.85,628,285,123,0,1100
+Harper,English,Action|Crime|Drama|Mystery|Thriller,77,21,11832,Color,USA,4,Not Rated,3500000,1966,121,6342,7,2.35,3600,533,612,24,5700
+She's the One,English,Comedy|Drama|Romance,99,41,17341,Color,USA,2,R,3500000,1996,96,14470,6,1.85,4900,475,2200,1200,6600
+Terror Train,English,Horror|Thriller,119,83,3532,Color,Canada,0,R,3500000,1980,97,7091,5.9,1.85,865,816,233,61,2100
+The Secret in Their Eyes,Spanish,Drama|Mystery|Romance|Thriller,234,264,1093,Color,Argentina,0,R,2000000,2009,129,144757,8.2,2.35,89,34000,50,195,873
+Gods and Monsters,English,Biography|Drama,229,130,10784, Black and White,USA,3,R,3500000,1998,105,25751,7.5,2.35,3200,1100,277,438,6300
+Pootie Tang,English,Action|Adventure|Comedy|Musical,132,31,9449,Color,USA,0,PG-13,7000000,2001,81,11782,5.2,1.85,2400,5900,1600,1200,3700
+Day of the Dead,English,Horror|Thriller,425,188,1691,Color,USA,1,Unrated,3500000,1985,96,52350,7.2,1.85,177,3200,82,2900,1100
+Evil Dead II,English,Comedy|Horror,547,258,7583,Color,USA,0,R,3600000,1987,84,120903,7.8,1.85,664,8000,329,1300,6100
+Trollhunter,Norwegian,Drama|Fantasy|Horror,201,341,44,Color,Norway,0,PG-13,19900000,2010,103,57771,7,1.85,4,39000,4,16,29
+La otra conquista,Spanish,Drama|History,494,40,224,Color,Mexico,1,R,3500000,1998,106,1040,6.9,1.85,16,140,10,22,177
+Ira & Abby,English,Comedy|Romance,24,30,4952,Color,USA,3,R,3500000,2006,104,1988,6.5,1.85,852,361,754,0,1200
+The Masked Saint,English,Action|Biography|Crime|Drama|Family|Fantasy,16,10,5677,Color,Canada,0,PG-13,3500000,2016,105,451,4.7,1.85,1300,1100,437,29,3300
+Winter Passing,English,Comedy|Drama,56,51,22955,Color,USA,4,R,3500000,2005,98,7446,6.4,1.85,8000,436,2900,9,11000
+D.E.B.S.,English,Action|Comedy|Romance,138,51,19754,Color,USA,4,PG-13,3500000,2004,91,12667,5.3,2.35,4000,1000,2300,23,8200
+Time to Choose,English,Documentary,3,7,27,Color,USA,0,,3500000,2015,100,112,7.2,,4,152,0,116,23
+The Betrayed,English,Crime|Drama|Mystery|Thriller,13,15,5634,Color,USA,0,,3500000,2008,98,1725,6,1.85,1300,135,387,9,3600
+The Watch,English,Action|Comedy|Sci-Fi,211,265,17630,Color,USA,4,R,68000000,2012,102,108187,5.7,2.35,3500,16000,2600,81,3900
+"Batman: The Dark Knight Returns, Part 2",English,Action|Adventure|Animation|Crime|Drama|Sci-Fi|Thriller,63,46,10759,Color,USA,0,PG-13,3500000,2013,76,34390,8.4,,2000,5000,1400,46,2400
+2:13,English,Mystery|Thriller,12,3,5745,Color,USA,0,,3500000,2009,96,995,4.8,2.35,1600,214,714,0,1700
+In the Name of the King: The Last Job,English,Action|Adventure|Fantasy|Thriller,10,18,3502,Color,Canada,0,R,3500000,2014,86,1421,3.2,1.78,844,730,145,898,2400
